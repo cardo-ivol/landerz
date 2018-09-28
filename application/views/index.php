@@ -1082,7 +1082,7 @@
     var myChart = new Chart(ctx, {
         type: 'bar',
         data: {
-            labels: ["Find out someone lied about their identity or been catfished", "Blue", "Yellow", "Green", "Purple", "Orange"],
+            labels: ["False idenity (Catfished)", "Blue", "Yellow", "Green", "Purple", "Orange"],
             datasets: [{
                 label: '# of Votes',
                 data: [12, 19, 3, 5, 2, 3],
