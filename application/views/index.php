@@ -372,6 +372,8 @@
 
                       </div>
 
+                      <hr>
+
                       <div class="col-6 wow fadeIn" data-wow-delay="0.6s">
                         <div class="text-center">
                           <h4 class="dark-grey-text title font-weight-bold wow fadeIn" data-wow-delay="0.6s">
@@ -395,8 +397,8 @@
 
 
                     </div>
-                    <div class="row pt-2 mt-3">
-                      <div class="col-md-12 wow fadeIn" data-wow-delay="0.8s">
+                    <div class="row pt-2 mt-5">
+                      <div class="col-md-12 wow fadeIn text-center" data-wow-delay="0.8s">
                         <h6 class="wow fadeIn" data-wow-delay="0.3s">Revenues from Round 1 Projected to commence: 4th QTR 2018
                         </h6>
                         <h6 class="wow fadeIn" data-wow-delay="0.3s">Exit Strategy Summation: IPO or Company Buyout by 2023
