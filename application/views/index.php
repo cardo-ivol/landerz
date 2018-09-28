@@ -273,8 +273,8 @@
                         </div>
 
                       </div>
-                      <div class="row wow fadeIn white-text text-center" data-wow-delay="0.4s">
-                        <div class="col-md-12">
+                      <div class="row wow fadeIn white-text" data-wow-delay="0.4s">
+                        <div class="col-6 mx-auto">
                           <div class="card">
                             <div class="card-body">
                               <canvas id="problemChart" style="max-width:500px;"></canvas>
