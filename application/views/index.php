@@ -71,6 +71,10 @@
         .top-h1 {
           font-size: 2rem !important;
         }
+
+        .card-opac {
+          background-color:rgba(255,255,255, 0.5);
+        }
     </style>
 </head>
 
@@ -275,7 +279,7 @@
                       </div>
                       <div class="row wow fadeIn white-text py-5" data-wow-delay="0.4s">
                         <div class="col-6 mx-auto">
-                          <div class="card">
+                          <div class="card card-opac">
                             <div class="card-body">
                               <canvas id="problemChart" style="max-width:500px;"></canvas>
                             </div>
