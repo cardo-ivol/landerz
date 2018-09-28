@@ -104,23 +104,35 @@
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link title" href="#about" data-offset="90">About</a>
+                            <a class="nav-link title" href="#vision" data-offset="90">Vision</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link title" href="#features" data-offset="90">Features</a>
+                            <a class="nav-link title" href="#market" data-offset="90">Market</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link title" href="#services" data-offset="90">Services</a>
+                            <a class="nav-link title" href="#problem" data-offset="90">Problem</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link title" href="#solution" data-offset="90">Solution</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link title" href="#opportunity" data-offset="90">Opportunity</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link title" href="#investor" data-offset="90">Invest</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link title" href="#team" data-offset="90">Team</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link title" href="#features" data-offset="90">Features</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link title" href="#contact" data-offset="90">Contact</a>
                         </li>
                     </ul>
                     <!-- Social Icon  -->
-                    <ul class="navbar-nav nav-flex-icons">
+                    <!-- <ul class="navbar-nav nav-flex-icons">
                         <li class="nav-item">
                             <a class="nav-link">
                                 <i class="fa fa-facebook title"></i>
@@ -136,7 +148,7 @@
                                 <i class="fa fa-instagram title"></i>
                             </a>
                         </li>
-                    </ul>
+                    </ul> -->
                 </div>
             </div>
         </nav>
@@ -155,8 +167,8 @@
                                 <!-- <h6 class="wow fadeIn" data-wow-delay="0.3s">Innovative connections to meaningful encounters -->
                                 </h6>
                                 <br>
-                                <a class="btn btn-white btn-rounded blue-text font-weight-bold ml-lg-0 wow fadeIn" data-wow-delay="0.3s">Portfolio</a>
-                                <a class="btn blue-gradient white-text btn-rounded font-weight-bold wow fadeIn" data-wow-delay="0.3s">Learn more
+                                <a class="btn btn-white btn-rounded blue-text font-weight-bold ml-lg-0 wow fadeIn" href="#" data-wow-delay="0.3s"><i class="fa fa-download"></i> Download (.pdf)</a>
+                                <a class="btn blue-gradient white-text btn-rounded font-weight-bold wow fadeIn" href="#contact" data-wow-delay="0.3s">Contact Us
                                 </a>
                             </div>
                         </div>
@@ -184,7 +196,7 @@
         <div class="container">
 
             <!-- Section: About -->
-            <section id="about" class="section about mt-5 mb-5 py-3 wow fadeIn" data-wow-delay="0.2s">
+            <section id="vision" class="section about mt-5 mb-5 py-3 wow fadeIn" data-wow-delay="0.2s">
 
                 <!-- Grid row -->
                 <div class="row pt-2 mt-5">
@@ -223,7 +235,7 @@
             <hr>
 
             <!-- Section: About -->
-            <section id="about" class="section about mt-5 mb-5 py-3 wow fadeIn" data-wow-delay="0.2s">
+            <section id="market" class="section about mt-5 mb-5 py-3 wow fadeIn" data-wow-delay="0.2s">
 
                 <!-- Grid row -->
                 <div class="row pt-2 mt-5">
@@ -265,7 +277,7 @@
               <div class="container py-4">
 
                   <!--Section: Services-->
-                  <section id="integrated" class="section mt-3">
+                  <section id="problem" class="section mt-3">
 
                       <!-- Section heading -->
                       <h3 class="text-center title mt-5 mb-3 white-text font-weight-bold wow fadeIn" data-wow-delay="0.2s">
@@ -308,7 +320,7 @@
           <div class="container">
 
             <!-- Section: About -->
-            <section id="about" class="section about mt-5 mb-5 py-3 wow fadeIn" data-wow-delay="0.2s">
+            <section id="solution" class="section about mt-5 mb-5 py-3 wow fadeIn" data-wow-delay="0.2s">
 
                 <!-- Grid row -->
                 <div class="row pt-2 mt-5">
@@ -343,7 +355,7 @@
             <div class="container py-4">
 
               <!-- Section: About -->
-              <section id="marketing" class="section about mt-5 mb-5 py-3 wow fadeIn" data-wow-delay="0.2s">
+              <section id="opportunity" class="section about mt-5 mb-5 py-3 wow fadeIn" data-wow-delay="0.2s">
 
                   <!-- Grid row -->
                   <div class="row pt-2 mt-5">
@@ -391,7 +403,7 @@
           <div class="container">
 
             <!-- Section: About -->
-            <section id="about" class="section about mt-5 mb-5 py-3 wow fadeIn" data-wow-delay="0.2s">
+            <section id="investor" class="section about mt-5 mb-5 py-3 wow fadeIn" data-wow-delay="0.2s">
 
                 <!-- Grid row -->
                 <div class="row pt-2 mt-5">
@@ -717,7 +729,7 @@
 
                 <!-- Section heading -->
                 <h3 class="text-center title my-5 dark-grey-text font-weight-bold wow fadeIn" data-wow-delay="0.2s">
-                    <strong>Awesome features</strong>
+                    <strong>Features</strong>
                 </h3>
 
                 <!-- Section sescription -->
@@ -933,47 +945,7 @@
     <!--Footer-->
     <footer class="page-footer text-center text-md-left unique-color-dark pt-0">
 
-        <div class="primary-bg">
-            <div class="container">
 
-                <!--Grid row-->
-                <div class="row py-4 d-flex align-items-center">
-
-                    <!--Grid column-->
-                    <div class="col-md-6 col-lg-5 text-center text-md-left mb-md-0">
-                        <h6 class="mb-0 white-text">Get connected with us on social networks!</h6>
-                    </div>
-                    <!--Grid column-->
-
-                    <!--Grid column-->
-                    <div class="col-md-6 col-lg-7 text-center text-md-right">
-                        <!--Facebook-->
-                        <a class="p-2 m-2 fa-lg fb-ic ml-0">
-                            <i class="fa fa-facebook white-text mr-lg-4"> </i>
-                        </a>
-                        <!--Twitter-->
-                        <a class="p-2 m-2 fa-lg tw-ic">
-                            <i class="fa fa-twitter white-text mr-lg-4"> </i>
-                        </a>
-                        <!--Google +-->
-                        <a class="p-2 m-2 fa-lg gplus-ic">
-                            <i class="fa fa-google-plus white-text mr-lg-4"> </i>
-                        </a>
-                        <!--Linkedin-->
-                        <a class="p-2 m-2 fa-lg li-ic">
-                            <i class="fa fa-linkedin white-text mr-lg-4"> </i>
-                        </a>
-                        <!--Instagram-->
-                        <a class="p-2 m-2 fa-lg ins-ic">
-                            <i class="fa fa-instagram white-text mr-lg-4"> </i>
-                        </a>
-                    </div>
-                    <!--Grid column-->
-
-                </div>
-                <!--Grid row-->
-            </div>
-        </div>
 
         <!-- Copyright -->
         <div class="footer-copyright py-3 text-center wow fadeIn" data-wow-delay="0.3s">
