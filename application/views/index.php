@@ -186,7 +186,7 @@
                     <div class="col-md-12 wow fadeIn" data-wow-delay="0.4s">
 
                         <!-- Secion heading -->
-                        <h3 class="mb-5 dark-grey-text title font-weight-bold wow fadeIn" data-wow-delay="0.2s">
+                        <h3 class="mb-5 dark-grey-text title font-weight-bold text-center wow fadeIn" data-wow-delay="0.2s">
                             <strong>The Market</strong>
                         </h3>
 
