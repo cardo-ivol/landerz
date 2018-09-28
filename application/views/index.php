@@ -135,9 +135,9 @@
                     <div class="row flex-center pt-5 mt-3">
                         <div class="col-md-12 col-lg-6 text-center text-md-left margins">
                             <div class="dark-grey-text">
-                                <h2 class="display-4 title mt-md-5 mt-lg-0 font-weight-bold wow fadeIn" data-wow-delay="0.3s">
+                                <h1 class="h2 title mt-md-5 mt-lg-0 font-weight-bold wow fadeIn" data-wow-delay="0.3s">
                                     <strong>Innovative connections to meaningful encounters</strong>
-                                </h2>
+                                </h1>
                                 <hr class="hr-light wow fadeIn" data-wow-delay="0.3s">
                                 <!-- <h6 class="wow fadeIn" data-wow-delay="0.3s">Innovative connections to meaningful encounters -->
                                 </h6>
