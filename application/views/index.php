@@ -146,7 +146,8 @@
                         </div>
 
                         <div class="col-md-12 col-lg-6 wow fadeIn" data-wow-delay="0.3s">
-                            <img src="https://mdbootstrap.com/img/Mockups/Transparent/Small/admin-new.png" alt="" class="img-fluid">
+                            <!-- <img src="https://mdbootstrap.com/img/Mockups/Transparent/Small/admin-new.png" alt="" class="img-fluid"> -->
+                            <img src="/public/img/dzyn.png" alt="" class="img-fluid">
                         </div>
                     </div>
                 </div>
