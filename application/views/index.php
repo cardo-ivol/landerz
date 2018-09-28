@@ -1090,6 +1090,7 @@
         data: {
             labels: ["Catfished", "Safety Concerns", "Inappropriate Images"],
             datasets: [{
+                label: false,
                 data: [34, 29, 26],
                 backgroundColor: [
                     'rgba(255, 99, 132, 0.2)',
