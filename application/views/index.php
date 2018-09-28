@@ -416,7 +416,7 @@
 
                       <hr>
 
-                      <div class="col-4 wow fadeIn" data-wow-delay="0.6s">
+                      <div class="col-6 wow fadeIn" data-wow-delay="0.6s">
                         <div class="text-center">
                           <h4 class="dark-grey-text title font-weight-bold wow fadeIn" data-wow-delay="0.6s">
                             Year 1
@@ -425,12 +425,8 @@
                           <h5><span class="badge green">Projected ROI <i class=" ml-2 fa fa-arrow-circle-up"></i></span></h5>
                         </div>
                       </div>
-                      <div class="col-4 d-sm-none d-md-block wow fadeIn" data-wow-delay="0.4s">
-                        <div class="text-center">
-                          <img src="/public/img/dyzn.png" class="img-fluid logo-margin">
-                        </div>
-                      </div>
-                      <div class="col-4 wow fadeIn" data-wow-delay="0.4s">
+
+                      <div class="col-6 wow fadeIn" data-wow-delay="0.4s">
                         <div class="text-center">
                           <h4 class="dark-grey-text title font-weight-bold wow fadeIn" data-wow-delay="0.6s">
                             Year 2
