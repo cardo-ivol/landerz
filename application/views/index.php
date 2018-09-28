@@ -145,14 +145,14 @@
                 <div class="row pt-2 mt-5">
 
                     <!-- Grid column -->
-                    <div class="col-lg-5 col-md-12 mb-3 wow slideInLeft" data-wow-delay="0.4s">
+                    <div class="col-lg-3 col-md-12 mb-3 wow slideInLeft" data-wow-delay="0.4s">
                         <!-- Image -->
                         <img src="/public/img/iphone.png" class="img-fluid" alt="My photo">
                     </div>
                     <!-- Grid column -->
 
                     <!-- Grid column -->
-                    <div class="col-lg-6 ml-auto col-md-12 wow fadeIn" data-wow-delay="0.4s">
+                    <div class="col-lg-9 ml-auto col-md-12 wow fadeIn" data-wow-delay="0.4s">
 
                         <!-- Secion heading -->
                         <h3 class="mb-5 dark-grey-text title font-weight-bold wow fadeIn" data-wow-delay="0.2s">
