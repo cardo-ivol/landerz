@@ -1257,10 +1257,16 @@
 
     <script>
     $(function () {
-        $('.min-chart#chart-sales').easyPieChart({
+        $('.min-chart#roi1').easyPieChart({
             barColor: "#4caf50",
             onStep: function (from, to, percent) {
-                $(this.el).find('.percent').text(Math.round(percent));
+                $(this.el).find('.percent').text(Math.round(30));
+            }
+        });
+        $('.min-chart#roi2').easyPieChart({
+            barColor: "#4caf50",
+            onStep: function (from, to, percent) {
+                $(this.el).find('.percent').text(Math.round(80));
             }
         });
     });
