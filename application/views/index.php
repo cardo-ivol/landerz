@@ -91,7 +91,7 @@
         <!-- Navbar -->
         <nav class="navbar navbar-expand-lg navbar-light fixed-top scrolling-navbar white">
             <div class="container">
-                <a class="navbar-brand font-weight-bold title" href="#">DYZN LLC</a>
+                <a class="navbar-brand font-weight-bold title" href="#">DZYN LLC</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02"
                     aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -170,7 +170,7 @@
 
                         <div class="col-md-12 col-lg-6 wow fadeIn" data-wow-delay="0.3s">
                             <!-- <img src="https://mdbootstrap.com/img/Mockups/Transparent/Small/admin-new.png" alt="" class="img-fluid"> -->
-                            <img src="/public/img/dyzn.png" alt="" class="img-fluid">
+                            <img src="/public/img/dzyn.png" alt="" class="img-fluid">
                         </div>
                     </div>
                 </div>
