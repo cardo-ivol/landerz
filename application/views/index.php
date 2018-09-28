@@ -160,14 +160,8 @@
                         </h3>
 
                         <!-- Description -->
-                        <p align="justify" class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo animi soluta ratione quisquam, dicta
-                            ab cupiditate iure eaque? Repellendus voluptatum, magni impedit delectus, beatae maxime temporibus
-                            maiores quibusdam.</p>
-                        <p align="justify" class="grey-text">Rem magnam ad perferendis iusto sint tempora ea voluptatibus iure, animi excepturi modi aut possimus
-                            in hic molestias repellendus illo ullam odit quia velit. Lorem ipsum dolor sit amet, consectetur
-                            adipisicing elit.</p>
-                        <p align="justify" class="grey-text mb-5">Incidunt eligendi mollitia labore ipsum ex fugit explicabo saepe error neque beatae in, expedita
-                            eveniet quae aliquam assumenda voluptatibus!</p>
+                        <p align="justify" class="grey-text">DYZN, LLC creates innovative software, connecting individuals in geographic proximity for casual and meaningful encounters in real time, incorporating the highest transparency standard in the industry.</p>
+
 
                     </div>
                     <!-- Grid column -->
