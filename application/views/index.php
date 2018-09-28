@@ -211,7 +211,7 @@
 
           </div>
 
-          <div class="jarallax">
+          <div class="view jarallax">
             <image src="/public/img/jar_img.jpg" class="jarallax-img">
             <div class="flex-center mask rgba-white-strong">
               <div class="container py-4">
@@ -971,6 +971,10 @@
         // Material Select Initialization
         $(document).ready(function () {
             $('.mdb-select').material_select();
+        });
+
+        $('.jarallax').jarallax({
+          speed: 0.2
         });
     </script>
 
