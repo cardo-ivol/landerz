@@ -231,7 +231,7 @@
                       <!-- First row -->
                       <div class="row wow fadeIn white-text text-center" data-wow-delay="0.4s">
                         <div class="col-md-12">
-                          <h5 class="mb-3 title py-4 t-shadow"><strong>Dating Apps suffer from misleading profile pictures and personal information</strong></h5>
+                          <h4 class="mb-3 title py-4 t-shadow"><strong>Dating Apps suffer from misleading profile pictures and personal information</strong></h4>
                           <br>
                           <p>"Cat fishing" and similar tactics negatively affect user experience and trust in the product. The market has a need for more niche dating and relationship Apps, customized to specific targeted demographics currently being underserved or overlooked.
                           </p>
