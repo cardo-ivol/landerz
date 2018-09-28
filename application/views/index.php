@@ -99,11 +99,6 @@
                 <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
                     <ul class="navbar-nav mr-auto smooth-scroll">
                         <li class="nav-item">
-                            <a class="nav-link title" href="#home">Home
-                                <span class="sr-only">(current)</span>
-                            </a>
-                        </li>
-                        <li class="nav-item">
                             <a class="nav-link title" href="#vision" data-offset="90">Vision</a>
                         </li>
                         <li class="nav-item">
