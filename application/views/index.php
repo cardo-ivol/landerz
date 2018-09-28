@@ -166,7 +166,12 @@
 
     <!-- Main content -->
     <main>
-
+      <div class="productList">
+        <div><img src="/public/img/f2f_app.jpg" class="img-fluid"></div>
+        <div><img src="/public/img/dskreat_app.jpg" class="img-fluid"></div>
+        <div><img src="/public/img/syftr_app.jpg" class="img-fluid"></div>
+        <div><img src="/public/img/l4l_app.jpg" class="img-fluid"></div>
+      </div>
         <div class="container">
 
             <!-- Section: About -->
@@ -175,12 +180,7 @@
                 <!-- Grid row -->
                 <div class="row pt-2 mt-5">
                   <div class="col-md-12 mb-3 wow slideInUp" data-wow-delay="0.2s">
-                    <div class="productList">
-                      <div><img src="/public/img/f2f_app.jpg" class="img-fluid"></div>
-                      <div><img src="/public/img/dskreat_app.jpg" class="img-fluid"></div>
-                      <div><img src="/public/img/syftr_app.jpg" class="img-fluid"></div>
-                      <div><img src="/public/img/l4l_app.jpg" class="img-fluid"></div>
-                    </div>
+
                   </div>
 
                     <!-- Grid column -->
