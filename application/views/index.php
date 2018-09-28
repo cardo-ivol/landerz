@@ -226,11 +226,12 @@
 
                       <!-- First row -->
                       <div class="row wow fadeIn white-text" data-wow-delay="0.4s">
-
-                        <h5 class="mb-3 title py-4" style="text-align: center !important;"><strong>Dating Apps suffer from misleading profile pictures and personal information</strong></h5>
-                        <br>
-                        <p>"Cat fishing" and similar tactics negatively affect user experience and trust in the product. The market has a need for more niche dating and relationship Apps, customized to specific targeted demographics currently being underserved or overlooked.
-                        </p>
+                        <div class="col-md-12">
+                          <h5 class="mb-3 title py-4" style="text-align: center !important;"><strong>Dating Apps suffer from misleading profile pictures and personal information</strong></h5>
+                          <br>
+                          <p>"Cat fishing" and similar tactics negatively affect user experience and trust in the product. The market has a need for more niche dating and relationship Apps, customized to specific targeted demographics currently being underserved or overlooked.
+                          </p>
+                        </div>
 
                       </div>
 
