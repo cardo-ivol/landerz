@@ -254,6 +254,43 @@
 
           <div class="container">
 
+            <!-- Section: About -->
+            <section id="about" class="section about mt-5 mb-5 py-3 wow fadeIn" data-wow-delay="0.2s">
+
+                <!-- Grid row -->
+                <div class="row pt-2 mt-5">
+
+
+
+                    <!-- Grid column -->
+                    <div class="col-md-12 wow fadeIn" data-wow-delay="0.4s">
+
+                        <!-- Secion heading -->
+                        <h3 class="mb-5 dark-grey-text title font-weight-bold text-center wow fadeIn" data-wow-delay="0.2s">
+                            <strong>The Market</strong>
+                        </h3>
+
+                        <!-- Description -->
+                        <p align="justify" class="grey-text">The dating industry is a $10B plus international market opportunity with consistent three digit revenue growth annually experienced by Tinder, the world's most popular dating software.</p>
+
+
+                    </div>
+                    <!-- Grid column -->
+                </div>
+
+                <div class="row">
+                  <div class="col-md-12 wow fadeIn" data-wow-delay="0.6s">
+                    <canvas id="lineChart"></canvas>
+                  </div>
+
+                </div>
+                <!-- Grid row -->
+
+            </section>
+            <!-- Section: About -->
+
+            <hr>
+
             <!-- Section: Features v.4 -->
             <section id="features" class="section feature-box mb-5 pb-4">
 
