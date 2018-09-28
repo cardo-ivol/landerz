@@ -209,7 +209,42 @@
             </section>
             <!-- Section: About -->
 
-            <hr>
+          </div>
+
+          <div class="view jarallax">
+            <image src="/public/img/jar_img.jpg" class="jarallax-img">
+            <div class="flex-center mask rgba-white-strong">
+              <div class="container py-4">
+
+                  <!--Section: Services-->
+                  <section id="integrated" class="section mt-3 mb-3 pb-3">
+
+                      <!-- Section heading -->
+                      <h3 class="text-center title my-5 pt-4 pb-5 dark-grey-text font-weight-bold wow fadeIn" data-wow-delay="0.2s">
+                          <strong>Currently Integrated</strong>
+                      </h3>
+
+                      <!-- First row -->
+                      <div class="row wow fadeIn" data-wow-delay="0.4s">
+
+
+
+                      </div>
+
+
+                      
+                      <!-- /.First row -->
+
+                  </section>
+                  <!--/Section: Services-->
+
+              </div>
+            </div>
+          </div>
+          <!-- </div> -->
+          <!--Second container-->
+
+          <div class="container">
 
             <!-- Section: Features v.4 -->
             <section id="features" class="section feature-box mb-5 pb-4">
