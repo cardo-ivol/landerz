@@ -117,7 +117,7 @@
                                 </h6>
                                 <br>
                                 <a class="btn btn-white btn-rounded blue-text font-weight-bold ml-lg-0 wow fadeIn" data-wow-delay="0.3s">Portfolio</a>
-                                <a class="btn pink-gradient white-text btn-rounded font-weight-bold wow fadeIn" data-wow-delay="0.3s">Learn more
+                                <a class="btn blue-gradient white-text btn-rounded font-weight-bold wow fadeIn" data-wow-delay="0.3s">Learn more
                                 </a>
                             </div>
                         </div>
