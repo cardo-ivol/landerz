@@ -217,7 +217,7 @@
               <div class="container py-4">
 
                   <!--Section: Services-->
-                  <section id="integrated" class="section mt-3 mb-3 pb-3">
+                  <section id="integrated" class="section mt-3">
 
                       <!-- Section heading -->
                       <h3 class="text-center title mt-5 mb-3 white-text font-weight-bold wow fadeIn" data-wow-delay="0.2s">
@@ -225,9 +225,9 @@
                       </h3>
 
                       <!-- First row -->
-                      <div class="row wow fadeIn white-text" data-wow-delay="0.4s">
+                      <div class="row wow fadeIn white-text text-center" data-wow-delay="0.4s">
 
-                        <p class="text-center mb-3"><strong>Dating Apps suffer from misleading profile pictures and personal information</strong></p>
+                        <h5 class="mb-3"><strong>Dating Apps suffer from misleading profile pictures and personal information</strong></h5>
                         <br>
                         <p>"Cat fishing" and similar tactics negatively affect user experience and trust in the product. The market has a need for more niche dating and relationship Apps, customized to specific targeted demographics currently being underserved or overlooked.
                         </p>
