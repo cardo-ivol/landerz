@@ -407,15 +407,13 @@
                     </div>
 
                     <!-- Grid column -->
-                </div>
+                
 
 
                 <!-- Grid row -->
 
             </section>
             <!-- Section: About -->
-
-            <hr>
 
             <hr class="mt-5">
 
@@ -424,7 +422,7 @@
 
                 <!-- Section heading -->
                 <h3 class="text-center title my-5 dark-grey-text font-weight-bold wow fadeIn" data-wow-delay="0.2s">
-                    <strong>Our amazing team</strong>
+                    <strong>Who We Are</strong>
                 </h3>
                 <!-- Section description -->
                 <p class="text-center w-responsive mx-auto my-5 grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, error amet numquam iure provident voluptate
