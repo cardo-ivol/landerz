@@ -284,7 +284,58 @@
             </section>
             <!-- Section: About -->
 
-            <hr>
+          </div>
+
+          <div class="container-fluid" style="background-color: #F8F9FA">
+            <div class="container py-4">
+
+              <!-- Section: About -->
+              <section id="marketing" class="section about mt-5 mb-5 py-3 wow fadeIn" data-wow-delay="0.2s">
+
+                  <!-- Grid row -->
+                  <div class="row pt-2 mt-5">
+
+
+
+                      <!-- Grid column -->
+                      <div class=" ml-auto col-md-12 wow fadeIn" data-wow-delay="0.4s">
+
+                          <!-- Secion heading -->
+                          <h3 class="mb-5 dark-grey-text title font-weight-bold wow fadeIn text-center" data-wow-delay="0.2s">
+                              <strong>The Opportunity</strong>
+                          </h3>
+
+
+                              <!--Panel-->
+
+
+                                  <!-- <p class="grey-text font-small mx-4">Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente earu
+                                      proident. Ad vegan excepteur butcher vice lomo leggings.
+
+                                  </p> -->
+                                  <div class="mx-4 my-4">
+                                  <p align="justify" class="grey-text"><a href="/">DYZN, LLC has initiated it's first round private investment offering. This round of funding has a target raise of $1.6M by December 1, 2018.</p>
+                                  <p align="justify" class="grey-text">Funding will launch syftr's ad campaign, complete and publish the Android syftr edition, (iOS/Apple version is complete) and complete the development of DYZN WebRTC (video chat) solution.</p>
+                                  <p align="justify" class="grey-text">face2face, dskreat and L4L Apps will follow in succession with projected launches throughout 2019.</p>
+                                </div>
+
+                              <!--/.Panel-->
+
+
+
+                      </div>
+
+
+                  </div>
+                  <!-- Grid row -->
+
+              </section>
+              <!-- Section: About -->
+
+            </div>
+          </div>
+
+          <div class="container">
 
             <!-- Section: Features v.4 -->
             <section id="features" class="section feature-box mb-5 pb-4">
