@@ -1082,7 +1082,7 @@
     var myChart = new Chart(ctx, {
         type: 'bar',
         data: {
-            labels: ["False idenity /n (Catfished)", "Safety Concerns", "Yellow"],
+            labels: ["False idenity (Catfished)", "Safety Concerns", "inappropriate images"],
             datasets: [{
                 label: '% of Users',
                 data: [34, 29, 26],
