@@ -371,6 +371,13 @@
                         </p>
 
                       </div>
+                    </div>
+                  </section>
+
+                  <section id="about" class="section about mt-5 mb-5 py-3 wow fadeIn" data-wow-delay="0.2s">
+
+                      <!-- Grid row -->
+                      <div class="row pt-2 mt-5">
 
                       <hr>
 
