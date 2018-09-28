@@ -103,7 +103,7 @@
         </nav>
 
         <!--Intro Section-->
-        <section class="view intro-2" style="background-image: url('https://mdbootstrap.com/img/Photos/Others/images/62.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
+        <section class="view intro-2" style="background-image: url('/public/img/bg.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
             <div class="mask">
                 <div class="container h-100 d-flex justify-content-center align-items-center">
                     <div class="row flex-center pt-5 mt-3">
