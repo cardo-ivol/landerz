@@ -366,14 +366,14 @@
 
                       <div class="col-6 wow fadeIn" data-wow-delay="0.4s">
                         <div class="text-center">
-                          <span class="min-chart" id="roi1" data-percent="30"><span class="percent-alter">20-30</span></span>
-                          <h5><span class="label green">Projected ROI Year 1<i class="fa fa-arrow-circle-up"></i></span></h5>
+                          <span class="min-chart" id="roi1" data-percent="30"><span class="percent-alter">20-30%</span></span>
+                          <h5><span class="badge green">Projected ROI Year 1<i class="fa fa-arrow-circle-up"></i></span></h5>
                         </div>
                       </div>
                       <div class="col-6 wow fadeIn" data-wow-delay="0.4s">
                         <div class="text-center">
-                          <span class="min-chart" id="roi2" data-percent="80"><span class="percent-alter">60-80</span></span>
-                          <h5><span class="label green">Projected ROI Year 1<i class="fa fa-arrow-circle-up"></i></span></h5>
+                          <span class="min-chart" id="roi2" data-percent="80"><span class="percent-alter">60-80%</span></span>
+                          <h5><span class="badge green">Projected ROI Year 1<i class="fa fa-arrow-circle-up"></i></span></h5>
                         </div>
                       </div>
                         <!-- Description -->
