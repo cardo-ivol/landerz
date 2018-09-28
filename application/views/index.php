@@ -1084,7 +1084,7 @@
         data: {
             labels: ["Catfished", "Safety Concerns", "Inappropriate Images"],
             datasets: [{
-                label: '% of Users',
+                labels: ["% Catfished", "% Safety Concerns", "% Inappropriate Images"],
                 data: [34, 29, 26],
                 backgroundColor: [
                     'rgba(255, 99, 132, 0.2)',
