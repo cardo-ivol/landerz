@@ -355,6 +355,17 @@
                         <h4 class="mb-5 dark-grey-text title font-weight-bold text-center wow fadeIn" data-wow-delay="0.4s">
                           Minimum Investment: $40,000
                         </h4>
+
+                      </div>
+
+                      <div class="col-6 wow fadeIn" data-wow-delay="0.4s">
+                        <span class="min-chart" id="roi1" data-percent="30"><span class="percent"></span></span>
+                        <h5><span class="label green">Projected ROI Year 1<i class="fa fa-arrow-circle-up"></i></span></h5>
+                      </div>
+                      <div class="col-6 wow fadeIn" data-wow-delay="0.4s">
+                        <span class="min-chart" id="roi2" data-percent="80"><span class="percent"></span></span>
+                        <h5><span class="label green">Projected ROI Year 1<i class="fa fa-arrow-circle-up"></i></span></h5>
+                      </div>
                         <!-- Description -->
                         <!-- <p align="justify" class="grey-text"><em>syftr</em> and its sister Apps (face2face, dskreat, L4L) provide users with tools to confirm accurate identification, incorporating innovative timestamped profile facial pictures and video chats for confirmation. DYZN, LLC has created a revolutionary infrastructure (template) currently incorporated in syftr, f2f, dskreat and L4L that can be replicated and deployed seamlessly into new niche Apps to meet the needs of other demographics. (veterans, seniors, pets, etc)</p> -->
 
@@ -1242,6 +1253,17 @@
                 }, 300);
             });
         });
+    </script>
+
+    <script>
+    $(function () {
+        $('.min-chart#chart-sales').easyPieChart({
+            barColor: "#4caf50",
+            onStep: function (from, to, percent) {
+                $(this.el).find('.percent').text(Math.round(percent));
+            }
+        });
+    });
     </script>
 
     <script>
