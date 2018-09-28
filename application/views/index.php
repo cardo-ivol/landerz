@@ -213,21 +213,24 @@
 
           <div class="view jarallax">
             <image src="/public/img/problem_jar.jpg" class="jarallax-img">
-            <div class="flex-center mask rgba-white-strong">
+            <div class="flex-center mask rgba-grey-strong">
               <div class="container py-4">
 
                   <!--Section: Services-->
                   <section id="integrated" class="section mt-3 mb-3 pb-3">
 
                       <!-- Section heading -->
-                      <h3 class="text-center title my-5 pt-4 pb-5 dark-grey-text font-weight-bold wow fadeIn" data-wow-delay="0.2s">
-                          <strong>Currently Integrated</strong>
+                      <h3 class="text-center title my-5 pt-4 pb-5 white-text font-weight-bold wow fadeIn" data-wow-delay="0.2s">
+                          <strong>The Problem</strong>
                       </h3>
 
                       <!-- First row -->
-                      <div class="row wow fadeIn" data-wow-delay="0.4s">
+                      <div class="row wow fadeIn white-text" data-wow-delay="0.4s">
 
-
+                        <p><strong>Dating Apps suffer from misleading profile pictures and personal information</strong></p>
+                        <br>
+                        <p>"Cat fishing" and similar tactics negatively affect user experience and trust in the product. The market has a need for more niche dating and relationship Apps, customized to specific targeted demographics currently being underserved or overlooked.
+                        </p>
 
                       </div>
 
