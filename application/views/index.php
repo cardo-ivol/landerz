@@ -78,6 +78,7 @@
 
         .logo-margin {
           margin-top: -35px;
+          max-width: 270px !important;
         }
     </style>
 </head>
