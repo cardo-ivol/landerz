@@ -12,6 +12,9 @@
     <link href="/public/mdb/css/bootstrap.min.css" rel="stylesheet">
     <!-- Material Design Bootstrap -->
     <link href="/public/mdb/css/mdb.min.css" rel="stylesheet">
+    <!-- Slick JS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.css" integrity="sha256-3h45mwconzsKjTUULjY+EoEkoRhXcOIU4l5YAw2tSOU=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css" integrity="sha256-4hqlsNP9KM6+2eA8VUT0kk4RsMRTeS7QGHIM+MZ5sLY=" crossorigin="anonymous" />
     <style>
         body {
             font-weight: 400;
@@ -167,6 +170,13 @@
 
                 <!-- Grid row -->
                 <div class="row pt-2 mt-5">
+                  <div class="col-md-12 mb-3 wow slideInUp" data-wow-delay="0.2s">
+                    <div class="your-class">
+                      <div>your content</div>
+                      <div>your content</div>
+                      <div>your content</div>
+                    </div>
+                  </div>
 
                     <!-- Grid column -->
                     <div class="col-lg-3 col-md-12 mb-3 wow slideInLeft" data-wow-delay="0.4s">
@@ -960,6 +970,8 @@
     <script type="text/javascript" src="/public/mdb/js/bootstrap.min.js"></script>
     <!-- MDB core JavaScript -->
     <script type="text/javascript" src="/public/mdb/js/mdb.min.js"></script>
+    <!-- Slick JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js" integrity="sha256-NXRS8qVcmZ3dOv3LziwznUHPegFhPZ1F/4inU7uC8h0=" crossorigin="anonymous"></script>
     <script>
         //Animation init
         new WOW().init();
@@ -977,6 +989,14 @@
         $('.jarallax').jarallax({
           speed: 0.2
         });
+    </script>
+
+    <script>
+    $('.multiple-items').slick({
+      infinite: true,
+      slidesToShow: 3,
+      slidesToScroll: 3
+    });
     </script>
 
     <script>
