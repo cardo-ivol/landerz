@@ -897,9 +897,9 @@
     <!-- Main content -->
 
     <!--Footer-->
-    <footer class="page-footer text-center text-md-left primary pt-0">
+    <footer class="page-footer text-center text-md-left unique-color-dark pt-0">
 
-        <div style="background-color: #f95169;">
+        <div class="primary-bg">
             <div class="container">
 
                 <!--Grid row-->
