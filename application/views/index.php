@@ -438,7 +438,7 @@
                     esse quasi, veritatis totam voluptas nostrum quisquam eum porro a pariatur accusamus veniam.</p>
 
                 <!-- Grid row -->
-                <div class="row text-center">
+                <div class="row text-center wow slideInUp" data-wow-delay="0.4s">
 
                     <!-- Grid column -->
                     <div class="col-lg-3 col-md-6 mb-4">
