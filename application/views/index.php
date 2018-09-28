@@ -358,9 +358,12 @@
                         <h3 class="mb-5 dark-grey-text title font-weight-bold text-center wow fadeIn" data-wow-delay="0.2s">
                             <strong>Investor Highlights</strong>
                         </h3>
-                        <h4 class="mb-5 dark-grey-text title font-weight-bold text-center wow fadeIn" data-wow-delay="0.4s">
+                        <h4 class="dark-grey-text title font-weight-bold text-center wow fadeIn" data-wow-delay="0.4s">
                           Minimum Investment: $40,000
                         </h4>
+                        <p class="grey-text text-center">
+                          (1 unit equal to $40,000/8 units equal to 1% total company ownership)
+                        </p>
 
                       </div>
 
