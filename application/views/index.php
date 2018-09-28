@@ -211,7 +211,7 @@
 
           </div>
 
-          <div class="view jarallax">
+          <div class="jarallax">
             <image src="/public/img/jar_img.jpg" class="jarallax-img">
             <div class="flex-center mask rgba-white-strong">
               <div class="container py-4">
@@ -232,7 +232,7 @@
                       </div>
 
 
-                      
+
                       <!-- /.First row -->
 
                   </section>
