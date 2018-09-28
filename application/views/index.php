@@ -275,7 +275,11 @@
                       </div>
                       <div class="row wow fadeIn white-text text-center" data-wow-delay="0.4s">
                         <div class="col-md-12">
-                          <canvas id="problemChart"></canvas>
+                          <div class="card">
+                            <div class="card-body">
+                              <canvas id="problemChart" style="max-width:500px;"></canvas>
+                            </div>
+                          </div>
                         </div>
                       </div>
 
