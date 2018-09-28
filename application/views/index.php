@@ -156,7 +156,7 @@
                         <div class="col-md-12 col-lg-6 text-center text-md-left margins">
                             <div class="dark-grey-text">
                                 <h1 class="top-h1 title mt-md-5 mt-lg-0 font-weight-bold wow fadeIn" data-wow-delay="0.3s">
-                                    <strong>Innovative connections to <br>meaningful encounters</strong>
+                                    <strong>Innovative connections to meaningful encounters</strong>
                                 </h1>
                                 <hr class="hr-light wow fadeIn" data-wow-delay="0.3s">
                                 <!-- <h6 class="wow fadeIn" data-wow-delay="0.3s">Innovative connections to meaningful encounters -->
