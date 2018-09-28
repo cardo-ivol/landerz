@@ -212,7 +212,7 @@
           </div>
 
           <div class="view jarallax">
-            <image src="/public/img/jar_img.jpg" class="jarallax-img">
+            <image src="/public/img/problem_jar.jpg" class="jarallax-img">
             <div class="flex-center mask rgba-white-strong">
               <div class="container py-4">
 
