@@ -56,6 +56,10 @@
           margin-top: 10px !important;
           margin-bottom: 10px !important;
         }
+
+        .primary {
+          color: #1476FB !important;
+        }
     </style>
 </head>
 
@@ -689,7 +693,7 @@
                         <!-- Grid row -->
                         <div class="row mb-3">
                             <div class="col-2">
-                                <i class="fa fa-edit orange-text fa-2x"></i>
+                                <i class="fa fa-edit primary fa-2x"></i>
                             </div>
                             <div class="col-10 mb-2">
                                 <h5 class="font-weight-bold title">Modern design</h5>
@@ -703,7 +707,7 @@
                         <!-- Grid row -->
                         <div class="row mb-3">
                             <div class="col-2">
-                                <i class="fa fa-cogs orange-text fa-2x"></i>
+                                <i class="fa fa-cogs primary fa-2x"></i>
                             </div>
                             <div class="col-10 mb-2">
                                 <h5 class="font-weight-bold title">Easy customize</h5>
@@ -716,7 +720,7 @@
                         <!-- Grid row -->
                         <div class="row">
                             <div class="col-2">
-                                <i class="fa fa-tablet orange-text fa-2x"></i>
+                                <i class="fa fa-tablet primary fa-2x"></i>
                             </div>
                             <div class="col-10 mb-2">
                                 <h5 class="font-weight-bold title">Responsive layouts</h5>
@@ -738,7 +742,7 @@
                         <!-- Grid row -->
                         <div class="row mb-3">
                             <div class="col-2">
-                                <i class="fa fa-line-chart orange-text fa-2x"></i>
+                                <i class="fa fa-line-chart primary fa-2x"></i>
                             </div>
                             <div class="col-10 mb-2">
                                 <h5 class="font-weight-bold title">Optymized for SEO</h5>
@@ -750,7 +754,7 @@
                         <!-- Grid row -->
                         <div class="row mb-3">
                             <div class="col-2">
-                                <i class="fa fa-group orange-text fa-2x"></i>
+                                <i class="fa fa-group primary fa-2x"></i>
                             </div>
                             <div class="col-10 mb-2">
                                 <h5 class="font-weight-bold title">Technical support</h5>
@@ -763,7 +767,7 @@
                         <!-- Grid row -->
                         <div class="row">
                             <div class="col-2">
-                                <i class="fa fa-diamond orange-text fa-2x"></i>
+                                <i class="fa fa-diamond primary fa-2x"></i>
                             </div>
                             <div class="col-10 mb-2">
                                 <h5 class="font-weight-bold title">High quality</h5>
