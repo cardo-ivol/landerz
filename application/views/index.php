@@ -75,6 +75,10 @@
         .card-opac {
           background-color:rgba(255,255,255, 0.7);
         }
+
+        .logo-margin {
+          margin-top: -35px;
+        }
     </style>
 </head>
 
@@ -422,7 +426,7 @@
                       </div>
                       <div class="col-4 wow fadeIn" data-wow-delay="0.4s">
                         <div class="text-center">
-                          <img src="/public/img/dyzn.png" class="img-fluid">
+                          <img src="/public/img/dyzn.png" class="img-fluid logo-margin">
                         </div>
                       </div>
                       <div class="col-4 wow fadeIn" data-wow-delay="0.4s">
