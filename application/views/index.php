@@ -273,7 +273,7 @@
                         </div>
 
                       </div>
-                      <div class="row wow fadeIn white-text" data-wow-delay="0.4s">
+                      <div class="row wow fadeIn white-text py-5" data-wow-delay="0.4s">
                         <div class="col-6 mx-auto">
                           <div class="card">
                             <div class="card-body">
