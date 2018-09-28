@@ -267,23 +267,18 @@
 
                         <!-- Secion heading -->
                         <h3 class="mb-5 dark-grey-text title font-weight-bold text-center wow fadeIn" data-wow-delay="0.2s">
-                            <strong>The Market</strong>
+                            <strong>The Solution</strong>
                         </h3>
 
                         <!-- Description -->
-                        <p align="justify" class="grey-text">The dating industry is a $10B plus international market opportunity with consistent three digit revenue growth annually experienced by Tinder, the world's most popular dating software.</p>
+                        <p align="justify" class="grey-text"><em>syftr</em> and its sister Apps (face2face, dskreat, L4L) provide users with tools to confirm accurate identification, incorporating innovative timestamped profile facial pictures and video chats for confirmation. DYZN, LLC has created a revolutionary infrastructure (template) currently incorporated in syftr, f2f, dskreat and L4L that can be replicated and deployed seamlessly into new niche Apps to meet the needs of other demographics. (veterans, seniors, pets, etc)</p>
 
 
                     </div>
                     <!-- Grid column -->
                 </div>
 
-                <div class="row">
-                  <div class="col-md-12 wow fadeIn" data-wow-delay="0.6s">
-                    <canvas id="lineChart"></canvas>
-                  </div>
 
-                </div>
                 <!-- Grid row -->
 
             </section>
