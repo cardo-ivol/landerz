@@ -1032,7 +1032,7 @@
       data: {
         labels: ["January", "February", "March", "April", "May", "June", "July"],
         datasets: [{
-            label: "My First dataset",
+            label: "Dataset",
             data: [40, 41, 43, 47, 52, 65, 85],
             backgroundColor: [
               'rgba(158, 158, 158, .2)',
@@ -1057,7 +1057,7 @@
         data: {
             labels: ["Catfished", "Safety Concerns", "Inappropriate Images"],
             datasets: [{
-                label: false,
+                label: "Dataset",
                 data: [34, 29, 26],
                 backgroundColor: [
                     'rgba(255, 99, 132, 0.2)',
