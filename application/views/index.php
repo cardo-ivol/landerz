@@ -407,7 +407,7 @@
                     </div>
 
                     <!-- Grid column -->
-                
+
 
 
                 <!-- Grid row -->
@@ -433,105 +433,233 @@
 
                     <!-- Grid column -->
                     <div class="col-lg-3 col-md-6 mb-4">
-                        <div class="card card-body">
-                            <div class="avatar mx-auto mt-3 mb-3">
-                                <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(25).jpg" class="rounded-circle" alt="First sample avatar image">
+                      <!-- Rotating card -->
+                        <div class="card-wrapper">
+                        <div id="card-1" class="card-rotating effect__click text-center h-100 w-100">
+
+                          <!-- Front Side -->
+                          <div class="face front">
+
+                            <!-- Image-->
+                            <div class="card-up">
+                              <img  class="card-img-top" src="https://mdbootstrap.com/img/Photos/Others/photo7.jpg" alt="Image with a photo of clouds.">
                             </div>
-                            <h6 class="font-weight-bold title">Anna Deynah</h6>
 
-                            <p class="font-small grey-text">Graphic designer</p>
+                            <!-- Avatar -->
+                            <div class="avatar mx-auto white"><img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(20).jpg" class="rounded-circle" alt="Sample avatar image.">
+                            </div>
 
-                            <ul class="list-unstyled">
-                                <!-- Facebook -->
-                                <a class="p-2 m-2 fa-lg fb-ic">
-                                    <i class="fa fa-facebook orange-text"> </i>
-                                </a>
-                                <!-- Twitter -->
-                                <a class="p-2 m-2 fa-lg tw-ic">
-                                    <i class="fa fa-twitter orange-text"> </i>
-                                </a>
-                                <!-- Instagram -->
-                                <a class="p-2 m-2 fa-lg ins-ic">
-                                    <i class="fa fa-instagram orange-text"> </i>
-                                </a>
-                            </ul>
+                            <!-- Content -->
+                            <div class="card-body">
+                              <h4 class="font-weight-bold mb-3">Marie Johnson</h4>
+                              <p class="font-weight-bold blue-text">Web developer</p>
+                              <!-- Triggering button -->
+                              <a class="rotate-btn" data-card="card-1"><i class="fa fa-repeat"></i> Click here to rotate</a>
+                            </div>
+                          </div>
+                          <!-- Front Side -->
+
+                          <!-- Back Side -->
+                          <div class="face back">
+                            <div class="card-body">
+
+                              <!-- Content -->
+                              <h4 class="font-weight-bold">About me</h4>
+                              <hr>
+                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime quae, dolores dicta. Blanditiis rem amet repellat, dolores nihil quae in mollitia asperiores ut rerum repellendus, voluptatum eum, officia laudantium quaerat?
+                              </p>
+                              <hr>
+                              <!-- Social Icons -->
+                              <ul class="list-inline py-2">
+                                <li class="list-inline-item"><a class="p-2 fa-lg fb-ic"><i class="fa fa-facebook"></i></a></li>
+                                <li class="list-inline-item"><a class="p-2 fa-lg tw-ic"><i class="fa fa-twitter"></i></a></li>
+                                <li class="list-inline-item"><a class="p-2 fa-lg gplus-ic"><i class="fa fa-google-plus"></i></a></li>
+                                <li class="list-inline-item"><a class="p-2 fa-lg li-ic"><i class="fa fa-linkedin"></i></a></li>
+                              </ul>
+                              <!-- Triggering button -->
+                              <a class="rotate-btn" data-card="card-1"><i class="fa fa-undo"></i> Click here to rotate back</a>
+
+                            </div>
+                          </div>
+                          <!-- Back Side -->
+
                         </div>
+                      </div>
+                      <!-- Rotating card -->
                     </div>
                     <!-- Grid column -->
 
                     <!-- Grid column -->
                     <div class="col-lg-3 col-md-6 mb-4">
-                        <div class="card card-body">
-                            <div class="avatar mx-auto mt-3 mb-3">
-                                <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(9).jpg" class="rounded-circle" alt="First sample avatar image">
+                      <!-- Rotating card -->
+                        <div class="card-wrapper">
+                        <div id="card-1" class="card-rotating effect__click text-center h-100 w-100">
+
+                          <!-- Front Side -->
+                          <div class="face front">
+
+                            <!-- Image-->
+                            <div class="card-up">
+                              <img  class="card-img-top" src="https://mdbootstrap.com/img/Photos/Others/photo7.jpg" alt="Image with a photo of clouds.">
                             </div>
-                            <h6 class="font-weight-bold title">John Doe</h6>
 
-                            <p class="font-small grey-text">Web developer</p>
+                            <!-- Avatar -->
+                            <div class="avatar mx-auto white"><img src="https://mdbootstrap.com/img/Photos/Avatars/img%20%2810%29.jpg" class="rounded-circle" alt="Sample avatar image.">
+                            </div>
 
-                            <ul class="list-unstyled">
-                                <!-- Facebook -->
-                                <a class="p-2 m-2 fa-lg fb-ic">
-                                    <i class="fa fa-facebook orange-text"> </i>
-                                </a>
-                                <!-- Instagram -->
-                                <a class="p-2 m-2 fa-lg ins-ic">
-                                    <i class="fa fa-instagram orange-text"> </i>
-                                </a>
-                            </ul>
+                            <!-- Content -->
+                            <div class="card-body">
+                              <h4 class="font-weight-bold mb-3">Marie Johnson</h4>
+                              <p class="font-weight-bold blue-text">Web developer</p>
+                              <!-- Triggering button -->
+                              <a class="rotate-btn" data-card="card-1"><i class="fa fa-repeat"></i> Click here to rotate</a>
+                            </div>
+                          </div>
+                          <!-- Front Side -->
+
+                          <!-- Back Side -->
+                          <div class="face back">
+                            <div class="card-body">
+
+                              <!-- Content -->
+                              <h4 class="font-weight-bold">About me</h4>
+                              <hr>
+                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime quae, dolores dicta. Blanditiis rem amet repellat, dolores nihil quae in mollitia asperiores ut rerum repellendus, voluptatum eum, officia laudantium quaerat?
+                              </p>
+                              <hr>
+                              <!-- Social Icons -->
+                              <ul class="list-inline py-2">
+                                <li class="list-inline-item"><a class="p-2 fa-lg fb-ic"><i class="fa fa-facebook"></i></a></li>
+                                <li class="list-inline-item"><a class="p-2 fa-lg tw-ic"><i class="fa fa-twitter"></i></a></li>
+                                <li class="list-inline-item"><a class="p-2 fa-lg gplus-ic"><i class="fa fa-google-plus"></i></a></li>
+                                <li class="list-inline-item"><a class="p-2 fa-lg li-ic"><i class="fa fa-linkedin"></i></a></li>
+                              </ul>
+                              <!-- Triggering button -->
+                              <a class="rotate-btn" data-card="card-1"><i class="fa fa-undo"></i> Click here to rotate back</a>
+
+                            </div>
+                          </div>
+                          <!-- Back Side -->
+
                         </div>
+                      </div>
+                      <!-- Rotating card -->
                     </div>
                     <!-- Grid column -->
 
                     <!-- Grid column -->
                     <div class="col-lg-3 col-md-6 mb-4">
-                        <div class="card card-body">
-                            <div class="avatar mx-auto mt-3 mb-3">
-                                <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(5).jpg" class="rounded-circle" alt="First sample avatar image">
+                      <!-- Rotating card -->
+                        <div class="card-wrapper">
+                        <div id="card-1" class="card-rotating effect__click text-center h-100 w-100">
+
+                          <!-- Front Side -->
+                          <div class="face front">
+
+                            <!-- Image-->
+                            <div class="card-up">
+                              <img  class="card-img-top" src="https://mdbootstrap.com/img/Photos/Others/photo7.jpg" alt="Image with a photo of clouds.">
                             </div>
-                            <h6 class="font-weight-bold title">Maria Smith</h6>
 
-                            <p class="font-small grey-text">Photographer</p>
+                            <!-- Avatar -->
+                            <div class="avatar mx-auto white"><img src="https://mdbootstrap.com/img/Photos/Avatars/img%20%2831%29.jpg" class="rounded-circle" alt="Sample avatar image.">
+                            </div>
 
-                            <ul class="list-unstyled">
-                                <!-- Facebook -->
-                                <a class="p-2 m-2 fa-lg fb-ic">
-                                    <i class="fa fa-facebook orange-text"> </i>
-                                </a>
-                                <!-- Instagram -->
-                                <a class="p-2 m-2 fa-lg ins-ic">
-                                    <i class="fa fa-instagram orange-text"> </i>
-                                </a>
-                                <!-- Dribbble -->
-                                <a class="p-2 m-2 fa-lg ins-ic">
-                                    <i class="fa fa-dribbble orange-text"> </i>
-                                </a>
-                            </ul>
+                            <!-- Content -->
+                            <div class="card-body">
+                              <h4 class="font-weight-bold mb-3">Marie Johnson</h4>
+                              <p class="font-weight-bold blue-text">Web developer</p>
+                              <!-- Triggering button -->
+                              <a class="rotate-btn" data-card="card-1"><i class="fa fa-repeat"></i> Click here to rotate</a>
+                            </div>
+                          </div>
+                          <!-- Front Side -->
+
+                          <!-- Back Side -->
+                          <div class="face back">
+                            <div class="card-body">
+
+                              <!-- Content -->
+                              <h4 class="font-weight-bold">About me</h4>
+                              <hr>
+                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime quae, dolores dicta. Blanditiis rem amet repellat, dolores nihil quae in mollitia asperiores ut rerum repellendus, voluptatum eum, officia laudantium quaerat?
+                              </p>
+                              <hr>
+                              <!-- Social Icons -->
+                              <ul class="list-inline py-2">
+                                <li class="list-inline-item"><a class="p-2 fa-lg fb-ic"><i class="fa fa-facebook"></i></a></li>
+                                <li class="list-inline-item"><a class="p-2 fa-lg tw-ic"><i class="fa fa-twitter"></i></a></li>
+                                <li class="list-inline-item"><a class="p-2 fa-lg gplus-ic"><i class="fa fa-google-plus"></i></a></li>
+                                <li class="list-inline-item"><a class="p-2 fa-lg li-ic"><i class="fa fa-linkedin"></i></a></li>
+                              </ul>
+                              <!-- Triggering button -->
+                              <a class="rotate-btn" data-card="card-1"><i class="fa fa-undo"></i> Click here to rotate back</a>
+
+                            </div>
+                          </div>
+                          <!-- Back Side -->
+
                         </div>
+                      </div>
+                      <!-- Rotating card -->
                     </div>
                     <!-- Grid column -->
 
                     <!-- Grid column -->
                     <div class="col-lg-3 col-md-6 mb-4">
-                        <div class="card card-body">
-                            <div class="avatar mx-auto mt-3 mb-3">
-                                <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(8).jpg" class="rounded-circle" alt="First sample avatar image">
+                      <!-- Rotating card -->
+                        <div class="card-wrapper">
+                        <div id="card-1" class="card-rotating effect__click text-center h-100 w-100">
+
+                          <!-- Front Side -->
+                          <div class="face front">
+
+                            <!-- Image-->
+                            <div class="card-up">
+                              <img  class="card-img-top" src="https://mdbootstrap.com/img/Photos/Others/photo7.jpg" alt="Image with a photo of clouds.">
                             </div>
-                            <h6 class="font-weight-bold title">Tom Adams</h6>
 
-                            <p class="font-small grey-text">Backend developer</p>
+                            <!-- Avatar -->
+                            <div class="avatar mx-auto white"><img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(20).jpg" class="rounded-circle" alt="Sample avatar image.">
+                            </div>
 
-                            <ul class="list-unstyled">
-                                <!-- Facebook -->
-                                <a class="p-2 m-2 fa-lg fb-ic">
-                                    <i class="fa fa-facebook orange-text"> </i>
-                                </a>
-                                <!-- Github -->
-                                <a class="p-2 m-2 fa-lg ins-ic">
-                                    <i class="fa fa-github orange-text"> </i>
-                                </a>
-                            </ul>
+                            <!-- Content -->
+                            <div class="card-body">
+                              <h4 class="font-weight-bold mb-3">Marie Johnson</h4>
+                              <p class="font-weight-bold blue-text">Web developer</p>
+                              <!-- Triggering button -->
+                              <a class="rotate-btn" data-card="card-1"><i class="fa fa-repeat"></i> Click here to rotate</a>
+                            </div>
+                          </div>
+                          <!-- Front Side -->
+
+                          <!-- Back Side -->
+                          <div class="face back">
+                            <div class="card-body">
+
+                              <!-- Content -->
+                              <h4 class="font-weight-bold">About me</h4>
+                              <hr>
+                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime quae, dolores dicta. Blanditiis rem amet repellat, dolores nihil quae in mollitia asperiores ut rerum repellendus, voluptatum eum, officia laudantium quaerat?
+                              </p>
+                              <hr>
+                              <!-- Social Icons -->
+                              <ul class="list-inline py-2">
+                                <li class="list-inline-item"><a class="p-2 fa-lg fb-ic"><i class="fa fa-facebook"></i></a></li>
+                                <li class="list-inline-item"><a class="p-2 fa-lg tw-ic"><i class="fa fa-twitter"></i></a></li>
+                                <li class="list-inline-item"><a class="p-2 fa-lg gplus-ic"><i class="fa fa-google-plus"></i></a></li>
+                                <li class="list-inline-item"><a class="p-2 fa-lg li-ic"><i class="fa fa-linkedin"></i></a></li>
+                              </ul>
+                              <!-- Triggering button -->
+                              <a class="rotate-btn" data-card="card-1"><i class="fa fa-undo"></i> Click here to rotate back</a>
+
+                            </div>
+                          </div>
+                          <!-- Back Side -->
+
                         </div>
+                      </div>
+                      <!-- Rotating card -->
                     </div>
                     <!-- Grid column -->
 
