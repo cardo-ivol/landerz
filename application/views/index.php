@@ -1020,12 +1020,12 @@
         labels: ["January", "February", "March", "April", "May", "June", "July"],
         datasets: [{
             label: "My First dataset",
-            data: [0, 43, 45, 50, 61, 70, 85],
+            data: [40, 41, 43, 47, 52, 65, 85],
             backgroundColor: [
               'rgba(158, 158, 158, .2)',
             ],
             borderColor: [
-              'rgba(0, 0, 0, .7)',
+              'rgba(0, 0, 0, .3)',
             ],
             borderWidth: 2
           }
