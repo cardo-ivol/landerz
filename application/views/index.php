@@ -267,7 +267,7 @@
 
                         <!-- Secion heading -->
                         <h3 class="mb-5 dark-grey-text title font-weight-bold text-center wow fadeIn" data-wow-delay="0.2s">
-                            <strong>The Solution</strong>
+                            <strong>The Solution</strong> <i class="text-success fa fa-check-circle"></i>
                         </h3>
 
                         <!-- Description -->
