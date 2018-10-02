@@ -271,7 +271,7 @@
 
           </div>
 
-          <div class="container-fluid" style="background-color: #F8F9FA">
+          <div class="container-fluid" style="background-color: #a1a1a1;">
             <div class="container py-4">
 
                   <!--Section: Services-->
