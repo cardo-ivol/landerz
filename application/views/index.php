@@ -308,6 +308,9 @@
                         <div class="col-6 mx-auto">
                           <div class="card card-opac">
                             <div class="card-body">
+                              <div class="text-center">
+                                <h4>Negative experiences with dating apps according to users in the united states as of January 2018.</h4>
+                              </div>
                               <canvas id="problemChart" style="max-width:500px;"></canvas>
                             </div>
                           </div>
