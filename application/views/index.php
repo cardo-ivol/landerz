@@ -80,6 +80,17 @@
           margin-top: -35px;
           max-width: 270px !important;
         }
+
+        .a-dotted
+        {
+            border-bottom: solid 1px white;
+            text-decoration: none;
+        }
+
+        .a-dotted:hover
+        {
+            border-bottom-color: #1476FB !important;
+        }
     </style>
 </head>
 
@@ -287,7 +298,7 @@
                         <div class="col-md-12">
                           <h4 class="mb-3 title py-4 t-shadow"><strong>Dating Apps suffer from misleading profile pictures and personal information</strong></h4>
                           <br>
-                          <p><a href="#" data-toggle="tooltip" title="Catfishing is a type of deceptive activity where a person creates a sock puppet social networking presence, or fake identity on a social network account, for attention seeking, bullying or as a romance scam. A 'catfish' is someone pretending to be someone they are not on the internet.">"Catfishing"</a> and similar tactics negatively affect user experience and trust in the product. The market has a need for more niche dating and relationship Apps, customized to specific targeted demographics currently being underserved or overlooked.
+                          <p><a href="#" data-toggle="tooltip" class="a-dotted" title="Catfishing is a type of deceptive activity where a person creates a sock puppet social networking presence, or fake identity on a social network account, for attention seeking, bullying or as a romance scam. A 'catfish' is someone pretending to be someone they are not on the internet.">"Catfishing"</a> and similar tactics negatively affect user experience and trust in the product. The market has a need for more niche dating and relationship Apps, customized to specific targeted demographics currently being underserved or overlooked.
                           </p>
                         </div>
 
