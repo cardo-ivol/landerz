@@ -85,6 +85,7 @@
         {
             border-bottom: solid 1px white;
             text-decoration: none;
+            color: #fff !important;
         }
 
         .a-dotted:hover
