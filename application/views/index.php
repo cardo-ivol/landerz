@@ -1035,10 +1035,10 @@
     var myLineChart = new Chart(ctxL, {
       type: 'line',
       data: {
-        labels: ["January", "February", "March", "April", "May", "June", "July"],
+        labels: ["1", "5", "9", "13", "17", "21", "25", "29", "33", "37", "41", "45", "49", "53", "57", "61"],
         datasets: [{
             label: "Dataset",
-            data: [40, 41, 43, 47, 52, 65, 85],
+            data: [0, 41, 43, 47, 52, 65, 85],
             backgroundColor: [
               'rgba(158, 158, 158, .2)',
             ],
