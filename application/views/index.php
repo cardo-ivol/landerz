@@ -352,6 +352,19 @@
 
 
                     </div>
+                    <div class="col-md-3 wow slideInLeft" data-wow-delay="0.8s">
+                      <img src="/public/img/iphonex_f2f.png" class="img-fluid">
+                    </div>
+                    <div class="col-md-3 wow slideInLeft" data-wow-delay="0.7s">
+                      <img src="/public/img/iphonex_dskreat.png" class="img-fluid">
+                    </div>
+                    <div class="col-md-3 wow slideInLeft" data-wow-delay="0.6s">
+                      <img src="/public/img/iphonex_l4l.png" class="img-fluid">
+                    </div>
+                    <div class="col-md-3 wow slideInLeft" data-wow-delay="0.5s">
+                      <img src="/public/img/iphonex_syftr.png" class="img-fluid">
+                    </div>
+
                     <!-- Grid column -->
                 </div>
 
