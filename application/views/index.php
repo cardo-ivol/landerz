@@ -83,7 +83,7 @@
 
         .a-dotted
         {
-            border-bottom: solid 1px white;
+            border-bottom: dotted 1px white;
             text-decoration: none;
             color: #fff !important;
         }
