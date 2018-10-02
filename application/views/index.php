@@ -176,7 +176,7 @@
 
                         <div class="col-md-12 col-lg-4 wow fadeIn" data-wow-delay="0.3s">
                             <!-- <img src="https://mdbootstrap.com/img/Mockups/Transparent/Small/admin-new.png" alt="" class="img-fluid"> -->
-                            <img src="/public/img/dzyn.png" alt="" class="img-fluid">
+                            <img src="/public/img/dzyn.png" alt="" class="img-fluid" style="max-height: 445px !important;">
                         </div>
                         <div class="col-md-12 col-lg-4 text-center text-md-left margins">
                             <div class="dark-grey-text">
