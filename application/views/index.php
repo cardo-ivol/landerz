@@ -304,7 +304,7 @@
                         </div>
 
                       </div>
-                      <div class="row wow fadeIn white-text py-5" data-wow-delay="0.4s">
+                      <div class="row wow fadeIn py-5" data-wow-delay="0.4s">
                         <div class="col-6 mx-auto">
                           <div class="card card-opac">
                             <div class="card-body">
