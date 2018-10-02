@@ -154,37 +154,24 @@
             <div class="mask">
                 <div class="container h-100 d-flex justify-content-center align-items-center">
                     <div class="row flex-center pt-5 mt-3">
-                        <div class="col-md-12 col-lg-4 text-center text-md-left margins">
+                        <div class="col-md-12 col-lg-6 text-center text-md-left margins">
                             <div class="dark-grey-text">
                                 <h1 class="top-h1 title mt-md-5 mt-lg-0 font-weight-bold wow fadeIn" data-wow-delay="0.3s">
-                                    <strong>
-                                      Innovative<br>
-                                      Connections<br>
-                                      Meaningful<br>
-                                      Encounters
-                                    </strong>
+                                    <strong>Innovative connections to meaningful encounters</strong>
                                 </h1>
                                 <hr class="hr-light wow fadeIn" data-wow-delay="0.3s">
                                 <!-- <h6 class="wow fadeIn" data-wow-delay="0.3s">Innovative connections to meaningful encounters -->
                                 </h6>
-                                <!-- <br>
-                                <a class="btn btn-white btn-rounded blue-text font-weight-bold ml-lg-0 wow fadeIn" href="#" data-wow-delay="0.3s"><i class="fa fa-download"></i> Download (.pdf)</a>
-                                <a class="btn blue-gradient white-text btn-rounded font-weight-bold wow fadeIn" href="#contact" data-wow-delay="0.3s">Contact Us -->
-                                </a>
-                            </div>
-                        </div>
-
-                        <div class="col-md-12 col-lg-4 wow fadeIn" data-wow-delay="0.3s">
-                            <!-- <img src="https://mdbootstrap.com/img/Mockups/Transparent/Small/admin-new.png" alt="" class="img-fluid"> -->
-                            <img src="/public/img/dzyn.png" alt="" class="img-fluid" style="max-height: 445px !important;">
-                        </div>
-                        <div class="col-md-12 col-lg-4 text-center text-md-left margins">
-                            <div class="dark-grey-text">
-
+                                <br>
                                 <a class="btn btn-white btn-rounded blue-text font-weight-bold ml-lg-0 wow fadeIn" href="#" data-wow-delay="0.3s"><i class="fa fa-download"></i> Download (.pdf)</a>
                                 <a class="btn blue-gradient white-text btn-rounded font-weight-bold wow fadeIn" href="#contact" data-wow-delay="0.3s">Contact Us
                                 </a>
                             </div>
+                        </div>
+
+                        <div class="col-md-12 col-lg-6 wow fadeIn" data-wow-delay="0.3s">
+                            <!-- <img src="https://mdbootstrap.com/img/Mockups/Transparent/Small/admin-new.png" alt="" class="img-fluid"> -->
+                            <img src="/public/img/dzyn.png" alt="" class="img-fluid">
                         </div>
                     </div>
                 </div>
