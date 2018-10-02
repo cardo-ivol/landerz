@@ -269,12 +269,7 @@
             </section>
             <!-- Section: About -->
 
-          </div>
 
-          <div class="view jarallax">
-            <image src="/public/img/problem_jar.jpg" class="jarallax-img">
-            <div class="flex-center mask rgba-grey-strong">
-              <div class="container py-4">
 
                   <!--Section: Services-->
                   <section id="problem" class="section mt-3">
@@ -311,13 +306,7 @@
                   </section>
                   <!--/Section: Services-->
 
-              </div>
-            </div>
-          </div>
-          <!-- </div> -->
-          <!--Second container-->
-
-          <div class="container">
+              
 
             <!-- Section: About -->
             <section id="solution" class="section about mt-5 mb-5 py-3 wow fadeIn" data-wow-delay="0.2s">
