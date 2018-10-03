@@ -352,16 +352,19 @@
 
 
                     </div>
-                    <div class="col-md-3 wow slideInLeft" data-wow-delay="0.8s">
-                      <img src="/public/img/iphonex_f2f.png" class="img-fluid">
+                  </div>
+
+                  <div class="row pt-2 mt-5">
+                    <div class="col-md-3 text-center wow slideInUp" data-wow-delay="0.6s">
+                      <img src="/public/img/iphonex_f2f.png" class="img-fluid" style="max-width: 175px;">
                     </div>
-                    <div class="col-md-3 wow slideInLeft" data-wow-delay="0.7s">
+                    <div class="col-md-3 text-center wow slideInUp" data-wow-delay="0.6s" style="max-width: 175px;">
                       <img src="/public/img/iphonex_dskreat.png" class="img-fluid">
                     </div>
-                    <div class="col-md-3 wow slideInLeft" data-wow-delay="0.6s">
+                    <div class="col-md-3 text-center wow slideInUp" data-wow-delay="0.6s" style="max-width: 175px;">
                       <img src="/public/img/iphonex_l4l.png" class="img-fluid">
                     </div>
-                    <div class="col-md-3 wow slideInLeft" data-wow-delay="0.5s">
+                    <div class="col-md-3 text-center wow slideInUp" data-wow-delay="0.6s" style="max-width: 175px;">
                       <img src="/public/img/iphonex_syftr.png" class="img-fluid">
                     </div>
 
