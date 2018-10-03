@@ -348,7 +348,7 @@
                         </h3>
 
                         <!-- Description -->
-                        <p align="justify" class="grey-text"><em>syftr</em> and its sister Apps (face2face, dskreat, L4L) provide users with tools to confirm accurate identification, incorporating innovative timestamped profile facial pictures and video chats for confirmation. DYZN, LLC has created a revolutionary infrastructure (template) currently incorporated in syftr, f2f, dskreat and L4L that can be replicated and deployed seamlessly into new niche Apps to meet the needs of other demographics. (veterans, seniors, pets, etc)</p>
+                        <p align="justify" class="grey-text">syftr and its sister Apps (face2face, dskreat, L4L) provide users with tools to confirm accurate identification, incorporating innovative timestamped profile facial pictures and video chats for confirmation. DYZN, LLC has created a revolutionary infrastructure (template) currently incorporated in syftr, f2f, dskreat and L4L that can be replicated and deployed seamlessly into new niche Apps to meet the needs of other demographics. (veterans, seniors, pets, etc)</p>
 
 
                     </div>
