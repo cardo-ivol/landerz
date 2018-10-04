@@ -108,6 +108,10 @@
           max-width: 180px !important;
           border-radius: 37px !important;
         }
+
+        .card-adj {
+          padding: 4.25rem !important; 
+        }
     </style>
 </head>
 
@@ -625,7 +629,7 @@
                         <div id="card-1" class="card-rotating effect__click text-center h-100 w-100">
 
                           <!-- Front Side -->
-                          <div class="face front">
+                          <div class="face front testimonial-card">
 
                             <!-- Image-->
                             <div class="card-up" style="background-color: #F53552 !important;">
@@ -636,7 +640,7 @@
                             </div>
 
                             <!-- Content -->
-                            <div class="card-body">
+                            <div class="card-body card-adj">
                               <h4 class="font-weight-bold mb-3">Marie Johnson</h4>
                               <p class="font-weight-bold blue-text">Web developer</p>
                               <!-- Triggering button -->
@@ -682,7 +686,7 @@
                         <div id="card-1" class="card-rotating effect__click text-center h-100 w-100">
 
                           <!-- Front Side -->
-                          <div class="face front">
+                          <div class="face front testimonial-card">
 
                             <!-- Image-->
                             <div class="card-up" style="background-color: #F53552 !important;">
@@ -693,7 +697,7 @@
                             </div>
 
                             <!-- Content -->
-                            <div class="card-body">
+                            <div class="card-body card-adj">
                               <h4 class="font-weight-bold mb-3">Marie Johnson</h4>
                               <p class="font-weight-bold blue-text">Web developer</p>
                               <!-- Triggering button -->
@@ -740,7 +744,7 @@
                         <div id="card-1" class="card-rotating effect__click text-center h-100 w-100">
 
                           <!-- Front Side -->
-                          <div class="face front">
+                          <div class="face front testimonial-card">
 
                             <!-- Image-->
                             <div class="card-up" style="background-color: #F53552 !important;">
@@ -751,7 +755,7 @@
                             </div>
 
                             <!-- Content -->
-                            <div class="card-body">
+                            <div class="card-body card-adj">
                               <h4 class="font-weight-bold mb-3">Marie Johnson</h4>
                               <p class="font-weight-bold blue-text">Web developer</p>
                               <!-- Triggering button -->
