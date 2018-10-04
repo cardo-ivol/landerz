@@ -428,6 +428,68 @@
 
 
                   </div>
+
+                  <!-- Vertical Steppers -->
+                  <div class="row mt-1">
+                      <div class="col-md-12">
+
+                          <!-- Stepers Wrapper -->
+                          <ul class="stepper stepper-vertical">
+
+                             <!-- First Step -->
+                              <li class="active">
+                                  <a href="#!">
+                                      <span class="circle">1</span>
+                                      <span class="label">December 1st 2018</span>
+                                  </a>
+                                  <div class="step-content white">
+                                      <ul>
+                                        <li>Complete First round funding raise $1.57M</li>
+                                        <li>Publish Syftr in Android</li>
+                                      </ul>
+                                  </div>
+                              </li>
+
+                              <!-- Second Step -->
+                              <li class="active">
+
+                                  <!--Section Title -->
+                                  <a href="#!">
+                                      <span class="circle">2</span>
+                                      <!-- <span class="label">Second step</span> -->
+                                  </a>
+
+                                  <!-- Section Description -->
+                                  <div class="step-content white">
+                                      <ul>
+                                        <li>Complete DZYN webRTC solution</li>
+                                        <li>face2face launch</li>
+                                      </ul>
+                                  </div>
+                              </li>
+
+                              <!-- Third Step -->
+                              <li class="active">
+                                  <a href="#!">
+                                      <span class="circle"><i class="fa fa-warning"></i></span>
+                                      <span class="label">1st quarter 2019</span>
+                                  </a>
+                                  <div class="step-content white">
+                                      <ul>
+                                        <li>dskreat launch</li>
+                                        <li>L4L launch</li>
+                                      </ul>
+                                  </div>
+                              </li>
+
+                              
+
+
+                          </ul>
+                          <!-- /.Stepers Wrapper -->
+
+                      </div>
+                  </div>
                   <!-- Grid row -->
 
               </section>
