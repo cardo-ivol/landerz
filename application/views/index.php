@@ -96,6 +96,13 @@
         .lg-bg {
           background-color: #F8F9FA !important;
         }
+
+        .stepper-vertical li .step-content {
+            display: block;
+            margin-top: 0;
+            margin-left: .13rem;
+            padding: unset;
+        }
     </style>
 </head>
 
@@ -460,7 +467,7 @@
                                   <!--Section Title -->
                                   <a href="#!">
                                       <span class="circle">2</span>
-                                      <!-- <span class="label">Second step</span> -->
+                                      <span class="label">Late 2018</span>
                                   </a>
 
                                   <!-- Section Description -->
