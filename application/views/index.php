@@ -103,6 +103,11 @@
             margin-left: .13rem;
             padding: unset;
         }
+
+        .iconz {
+          max-width: 180px !important;
+          border-radius: 37px !important;
+        }
     </style>
 </head>
 
@@ -573,16 +578,16 @@
 
                     <div class="row pt-2 mt-5">
                       <div class="col-md-3 wow fadeIn text-center" data-wow-delay="0.8s">
-                        <img src="/public/img/f2f.png" class="img-fluid" style="max-width:180px !important">
+                        <img src="/public/img/f2f.png" class="img-fluid iconz z-depth-1">
                       </div>
                       <div class="col-md-3 wow fadeIn text-center" data-wow-delay="0.8s">
-                        <img src="/public/img/dskreat.png" class="img-fluid z-depth-1" style="max-width:180px !important">
+                        <img src="/public/img/dskreat.png" class="img-fluid iconz z-depth-1">
                       </div>
                       <div class="col-md-3 wow fadeIn text-center" data-wow-delay="0.8s">
-                        <img src="/public/img/l4l.png" class="img-fluid" style="max-width:180px !important">
+                        <img src="/public/img/l4l.png" class="img-fluid iconz z-depth-1">
                       </div>
                       <div class="col-md-3 wow fadeIn text-center" data-wow-delay="0.8s">
-                        <img src="/public/img/syftr.png" class="img-fluid" style="max-width:180px !important">
+                        <img src="/public/img/syftr.png" class="img-fluid iconz z-depth-1">
                       </div>
                     </div>
                     <!-- Grid column -->
