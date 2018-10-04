@@ -407,9 +407,17 @@
 
                                   </p> -->
                                   <div class="mx-4 my-4">
-                                  <p align="justify" class="grey-text">DYZN, LLC has initiated it's first round private investment offering. This round of funding has a target raise of $1.6M by December 1, 2018.</p>
+                                    <ul>
+                                      <li>DYZN, LLC has initiated it's first round private investment offering. This round of funding has a target raise of $1.6M by December 1, 2018</li>
+                                      <li>Funding will launch syftr's ad campaign</li>
+                                      <li>Complete and publish the Android syftr edition, (iOS/Apple version is complete)</li>
+                                      <li>Complete the development of DYZN WebRTC (video chat) solution</li>
+                                      <li>face2face projected launch late 2018</li>
+                                      <li>dskreat and L4L projected launch early 2019</li>
+                                    </ul>
+                                  <!-- <p align="justify" class="grey-text">DYZN, LLC has initiated it's first round private investment offering. This round of funding has a target raise of $1.6M by December 1, 2018.</p>
                                   <p align="justify" class="grey-text">Funding will launch syftr's ad campaign, complete and publish the Android syftr edition, (iOS/Apple version is complete) and complete the development of DYZN WebRTC (video chat) solution.</p>
-                                  <p align="justify" class="grey-text">face2face, dskreat and L4L Apps will follow in succession with projected launches throughout 2019.</p>
+                                  <p align="justify" class="grey-text">face2face, dskreat and L4L Apps will follow in succession with projected launches throughout 2019.</p> -->
                                 </div>
 
                               <!--/.Panel-->
