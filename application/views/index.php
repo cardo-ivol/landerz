@@ -589,8 +589,8 @@
                       <div class="col-md-3 wow fadeIn text-center" data-wow-delay="0.8s">
                         <img src="/public/img/syftr.png" class="img-fluid iconz z-depth-1">
                       </div>
-                      <div class="col-md-12 wow fadeIn text-center mt-4" data-wow-delay="0.8s">
-                        <p class="text-center">Investor's equity in DYZN includes revenue from all of its catalog of current and future Apps</p>
+                      <div class="col-md-12 wow fadeIn text-center mt-5 pt-3" data-wow-delay="0.8s">
+                        <p class="text-center dark-grey-text">Investor's equity in DYZN includes revenue from all of its catalog of current and future Apps</p>
                       </div>
                     </div>
                     <!-- Grid column -->
