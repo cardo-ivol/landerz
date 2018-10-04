@@ -219,7 +219,7 @@
                     <!-- Grid column -->
                     <div class="col-lg-3 col-md-12 mb-3 wow slideInLeft" data-wow-delay="0.4s">
                         <!-- Image -->
-                        <img src="/public/img/iphone.png" class="img-fluid" alt="My photo">
+                        <img src="/public/img/iphonex_syftr.png" class="img-fluid" alt="My photo">
                     </div>
                     <!-- Grid column -->
 
