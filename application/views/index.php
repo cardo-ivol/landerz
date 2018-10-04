@@ -411,7 +411,7 @@
 
 
                       <!-- Grid column -->
-                      <div class=" ml-auto col-md-12 wow fadeIn" data-wow-delay="0.4s">
+                      <div class="ml-auto col-md-12 wow fadeIn" data-wow-delay="0.4s">
 
                           <!-- Secion heading -->
                           <h3 class="mb-5 dark-grey-text title font-weight-bold wow fadeIn text-center" data-wow-delay="0.2s">
@@ -440,22 +440,8 @@
                   </div>
 
                   <!-- Vertical Steppers -->
-                  <div class="row mt-1">
-                    <div class="col-md-6">
-                      <div class="mx-4 my-4">
-                        <ul>
-                          <li>DYZN, LLC has initiated it's first round private investment offering. This round of funding has a target raise of $1.6M by December 1, 2018</li>
-                          <li>Funding will launch syftr's ad campaign</li>
-                          <li>Complete and publish the Android syftr edition, (iOS/Apple version is complete)</li>
-                          <li>Complete the development of DYZN WebRTC (video chat) solution</li>
-                          <li>face2face projected launch late 2018</li>
-                          <li>dskreat and L4L projected launch early 2019</li>
-                        </ul>
-                      <!-- <p align="justify" class="grey-text">DYZN, LLC has initiated it's first round private investment offering. This round of funding has a target raise of $1.6M by December 1, 2018.</p>
-                      <p align="justify" class="grey-text">Funding will launch syftr's ad campaign, complete and publish the Android syftr edition, (iOS/Apple version is complete) and complete the development of DYZN WebRTC (video chat) solution.</p>
-                      <p align="justify" class="grey-text">face2face, dskreat and L4L Apps will follow in succession with projected launches throughout 2019.</p> -->
-                    </div>
-                  </div>
+                  <div class="row mt-1 mb-4">
+
                       <div class="col-md-6">
 
                           <!-- Stepers Wrapper -->
@@ -514,6 +500,18 @@
                           <!-- /.Stepers Wrapper -->
 
                       </div>
+                      <div class="col-md-6">
+
+                          <ul>
+                            <li>DYZN, LLC has initiated it's first round private investment offering. This round of funding has a target raise of $1.6M by December 1, 2018</li>
+                            <li>Funding will launch syftr's ad campaign</li>
+                            <li>Complete and publish the Android syftr edition, (iOS/Apple version is complete)</li>
+                            <li>Complete the development of DYZN WebRTC (video chat) solution</li>
+                            <li>face2face projected launch late 2018</li>
+                            <li>dskreat and L4L projected launch early 2019</li>
+                          </ul>
+
+                    </div>
                   </div>
                   <!-- Grid row -->
 
