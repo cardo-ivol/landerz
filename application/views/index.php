@@ -424,7 +424,7 @@
                   <!-- Vertical Steppers -->
                   <div class="row mt-1 mb-4">
 
-                      <div class="col-md-6">
+                      <div class="col-md-6 mb-4">
 
                           <!-- Stepers Wrapper -->
                           <ul class="stepper stepper-vertical">
@@ -482,16 +482,16 @@
                           <!-- /.Stepers Wrapper -->
 
                       </div>
-                      <div class="col-md-6">
+                      <div class="col-md-6 mb-4">
 
-                          <ul>
-                            <li>DYZN, LLC has initiated it's first round private investment offering. This round of funding has a target raise of $1.6M by December 1, 2018</li>
-                            <li>Funding will launch syftr's ad campaign</li>
-                            <li>Complete and publish the Android syftr edition, (iOS/Apple version is complete)</li>
-                            <li>Complete the development of DYZN WebRTC (video chat) solution</li>
-                            <li>face2face projected launch late 2018</li>
-                            <li>dskreat and L4L projected launch early 2019</li>
-                          </ul>
+                        <ul class="mt-md-5 pt-md-4">
+                          <li>DYZN, LLC has initiated it's first round private investment offering. This round of funding has a target raise of $1.6M by December 1, 2018</li>
+                          <li>Funding will launch syftr's ad campaign</li>
+                          <li>Complete and publish the Android syftr edition, (iOS/Apple version is complete)</li>
+                          <li>Complete the development of DYZN WebRTC (video chat) solution</li>
+                          <li>face2face projected launch late 2018</li>
+                          <li>dskreat and L4L projected launch early 2019</li>
+                        </ul>
 
                     </div>
                   </div>
