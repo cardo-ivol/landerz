@@ -570,6 +570,21 @@
                       </div>
                     </div>
 
+
+                    <div class="row pt-2 mt-5">
+                      <div class="col-md-3 wow fadeIn text-center" data-wow-delay="0.8s">
+                        <img src="/public/img/f2f.png" class="img-fluid">
+                      </div>
+                      <div class="col-md-3 wow fadeIn text-center" data-wow-delay="0.8s">
+                        <img src="/public/img/dskreat.png" class="img-fluid">
+                      </div>
+                      <div class="col-md-3 wow fadeIn text-center" data-wow-delay="0.8s">
+                        <img src="/public/img/l4l.png" class="img-fluid">
+                      </div>
+                      <div class="col-md-3 wow fadeIn text-center" data-wow-delay="0.8s">
+                        <img src="/public/img/syftr.png" class="img-fluid">
+                      </div>
+                    </div>
                     <!-- Grid column -->
 
 
