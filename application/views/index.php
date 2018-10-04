@@ -92,6 +92,10 @@
         {
             border-bottom-color: #1476FB !important;
         }
+
+        .lg-bg {
+          background-color: #F8F9FA !important;
+        }
     </style>
 </head>
 
@@ -442,7 +446,7 @@
                                       <span class="circle">1</span>
                                       <span class="label">December 1st 2018</span>
                                   </a>
-                                  <div class="step-content white">
+                                  <div class="step-content lg-bg">
                                       <ul>
                                         <li>Complete First round funding raise $1.57M</li>
                                         <li>Publish Syftr in Android</li>
@@ -460,7 +464,7 @@
                                   </a>
 
                                   <!-- Section Description -->
-                                  <div class="step-content white">
+                                  <div class="step-content lg-bg">
                                       <ul>
                                         <li>Complete DZYN webRTC solution</li>
                                         <li>face2face launch</li>
@@ -471,10 +475,10 @@
                               <!-- Third Step -->
                               <li class="active">
                                   <a href="#!">
-                                      <span class="circle"><i class="fa fa-warning"></i></span>
+                                      <span class="circle">3</span>
                                       <span class="label">1st quarter 2019</span>
                                   </a>
-                                  <div class="step-content white">
+                                  <div class="step-content lg-bg">
                                       <ul>
                                         <li>dskreat launch</li>
                                         <li>L4L launch</li>
@@ -482,7 +486,7 @@
                                   </div>
                               </li>
 
-                              
+
 
 
                           </ul>
