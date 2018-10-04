@@ -619,7 +619,7 @@
                 <div class="row text-center wow slideInUp" data-wow-delay="0.4s">
 
                     <!-- Grid column -->
-                    <div class="col-lg-3 col-md-6 mb-4">
+                    <div class="col-md-4 mb-4">
                       <!-- Rotating card -->
                         <div class="card-wrapper">
                         <div id="card-1" class="card-rotating effect__click text-center h-100 w-100">
@@ -628,8 +628,7 @@
                           <div class="face front">
 
                             <!-- Image-->
-                            <div class="card-up">
-                              <img  class="card-img-top" src="https://mdbootstrap.com/img/Photos/Others/photo7.jpg" alt="Image with a photo of clouds.">
+                            <div class="card-up" style="background-color: #F53552 !important;">
                             </div>
 
                             <!-- Avatar -->
@@ -677,7 +676,7 @@
                     <!-- Grid column -->
 
                     <!-- Grid column -->
-                    <div class="col-lg-3 col-md-6 mb-4">
+                    <div class="col-md-4 mb-4">
                       <!-- Rotating card -->
                         <div class="card-wrapper">
                         <div id="card-1" class="card-rotating effect__click text-center h-100 w-100">
@@ -686,8 +685,7 @@
                           <div class="face front">
 
                             <!-- Image-->
-                            <div class="card-up">
-                              <img  class="card-img-top" src="https://mdbootstrap.com/img/Photos/Others/photo7.jpg" alt="Image with a photo of clouds.">
+                            <div class="card-up" style="background-color: #F53552 !important;">
                             </div>
 
                             <!-- Avatar -->
@@ -734,8 +732,9 @@
                     </div>
                     <!-- Grid column -->
 
+
                     <!-- Grid column -->
-                    <div class="col-lg-3 col-md-6 mb-4">
+                    <div class="col-md-4 mb-4">
                       <!-- Rotating card -->
                         <div class="card-wrapper">
                         <div id="card-1" class="card-rotating effect__click text-center h-100 w-100">
@@ -744,66 +743,7 @@
                           <div class="face front">
 
                             <!-- Image-->
-                            <div class="card-up">
-                              <img  class="card-img-top" src="https://mdbootstrap.com/img/Photos/Others/photo7.jpg" alt="Image with a photo of clouds.">
-                            </div>
-
-                            <!-- Avatar -->
-                            <div class="avatar mx-auto white"><img src="https://mdbootstrap.com/img/Photos/Avatars/img%20%2831%29.jpg" class="rounded-circle" alt="Sample avatar image.">
-                            </div>
-
-                            <!-- Content -->
-                            <div class="card-body">
-                              <h4 class="font-weight-bold mb-3">Marie Johnson</h4>
-                              <p class="font-weight-bold blue-text">Web developer</p>
-                              <!-- Triggering button -->
-                              <a class="rotate-btn" data-card="card-1"><i class="fa fa-repeat"></i> Click here to rotate</a>
-                            </div>
-                          </div>
-                          <!-- Front Side -->
-
-                          <!-- Back Side -->
-                          <div class="face back">
-                            <div class="card-body">
-
-                              <!-- Content -->
-                              <h4 class="font-weight-bold">About me</h4>
-                              <hr>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime quae, dolores dicta. Blanditiis rem amet repellat, dolores nihil quae in mollitia asperiores ut rerum repellendus, voluptatum eum, officia laudantium quaerat?
-                              </p>
-                              <hr>
-                              <!-- Social Icons -->
-                              <ul class="list-inline py-2">
-                                <li class="list-inline-item"><a class="p-2 fa-lg fb-ic"><i class="fa fa-facebook"></i></a></li>
-                                <li class="list-inline-item"><a class="p-2 fa-lg tw-ic"><i class="fa fa-twitter"></i></a></li>
-                                <li class="list-inline-item"><a class="p-2 fa-lg gplus-ic"><i class="fa fa-google-plus"></i></a></li>
-                                <li class="list-inline-item"><a class="p-2 fa-lg li-ic"><i class="fa fa-linkedin"></i></a></li>
-                              </ul>
-                              <!-- Triggering button -->
-                              <a class="rotate-btn" data-card="card-1"><i class="fa fa-undo"></i> Click here to rotate back</a>
-
-                            </div>
-                          </div>
-                          <!-- Back Side -->
-
-                        </div>
-                      </div>
-                      <!-- Rotating card -->
-                    </div>
-                    <!-- Grid column -->
-
-                    <!-- Grid column -->
-                    <div class="col-lg-3 col-md-6 mb-4">
-                      <!-- Rotating card -->
-                        <div class="card-wrapper">
-                        <div id="card-1" class="card-rotating effect__click text-center h-100 w-100">
-
-                          <!-- Front Side -->
-                          <div class="face front">
-
-                            <!-- Image-->
-                            <div class="card-up">
-                              <img  class="card-img-top" src="https://mdbootstrap.com/img/Photos/Others/photo7.jpg" alt="Image with a photo of clouds.">
+                            <div class="card-up" style="background-color: #F53552 !important;">
                             </div>
 
                             <!-- Avatar -->
