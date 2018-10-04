@@ -408,8 +408,6 @@
                   <!-- Grid row -->
                   <div class="row pt-2 mt-5">
 
-
-
                       <!-- Grid column -->
                       <div class="ml-auto col-md-12 wow fadeIn" data-wow-delay="0.4s">
 
@@ -420,24 +418,8 @@
 
                         </div>
 
-
-                              <!--Panel-->
-
-
-                                  <!-- <p class="grey-text font-small mx-4">Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente earu
-                                      proident. Ad vegan excepteur butcher vice lomo leggings.
-
-                                  </p> -->
-
-
-                              <!--/.Panel-->
-
-
-
                       </div>
 
-
-                  </div>
 
                   <!-- Vertical Steppers -->
                   <div class="row mt-1 mb-4">
