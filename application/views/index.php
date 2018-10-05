@@ -1096,17 +1096,23 @@
         labels: ["1", "5", "9", "13", "17", "21", "25", "29", "33", "37", "41", "45", "49", "53", "57", "61"],
         datasets: [{
             label: "Tinder",
-            data: [0, 12 , 43, 47, 52, 65, 85],
-            borderColor: [
+            data: [0, , 43, 47, 52, 65, 85],
+            backgroundColor: [
               'rgba(0, 0, 0, 0)',
+            ],
+            borderColor: [
+              '#CE4A35',
             ],
             borderWidth: 2
           },
           {
             label: "LOOVOO",
             data: [0, 23, 35, 65, 52, 23, 23],
-            borderColor: [
+            backgroundColor: [
               'rgba(0, 0, 0, 0)',
+            ],
+            borderColor: [
+              '#F47FBE',
             ],
             borderWidth: 2
           }
