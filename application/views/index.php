@@ -122,7 +122,7 @@
         }
 
         .body-rem {
-          font-size: 1.2rem !important;
+          font-size: 1.6rem !important;
         }
 
         .stupid-gradient {
@@ -508,7 +508,7 @@
                       </div>
                       <div class="col-md-6 mb-4">
 
-                        <ul class="mt-md-5 pt-md-4 body-rem">
+                        <ul class="pt-md-4 body-rem">
                           <li>DYZN, LLC has initiated it's first round private investment offering. This round of funding has a target raise of $1.6M by December 1, 2018</li>
                           <li>Funding will launch syftr's ad campaign</li>
                           <li>Complete and publish the Android syftr edition, (iOS/Apple version is complete)</li>
