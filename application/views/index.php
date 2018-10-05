@@ -1130,7 +1130,27 @@
         ]
       },
       options: {
-        responsive: true
+        responsive: true,
+        title: {
+          display: true,
+          text: 'Global Cumulative Downloads',
+          scales: {
+            xAxes: [{
+              display: true,
+              scaleLabel: {
+                display: true,
+                labelString: 'Months Since Launch'
+              }
+            }],
+            yAxes: [{
+              display: true,
+              scaleLabel: {
+                display: true,
+                labelString: 'Downloads (\'000s\')'
+              }
+            }]
+          }
+        }
       }
     });
     </script>
