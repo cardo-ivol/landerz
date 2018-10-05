@@ -130,6 +130,12 @@
           background: -o-linear-gradient(50deg,#fff,#B7B9B6)!important;
           background: linear-gradient(40deg,#fff,#B7B9B6)!important;
         }
+
+        .stupid-gradient-2 {
+          background: -webkit-linear-gradient(50deg,#999DA0,#222222)!important;
+          background: -o-linear-gradient(50deg,#999DA0,#222222)!important;
+          background: linear-gradient(40deg,#999DA0,#222222)!important;
+        }
     </style>
 </head>
 
@@ -218,7 +224,7 @@
                                 </h6>
                                 <br>
                                 <a class="btn stupid-gradient btn-rounded black-text font-weight-bold ml-lg-0 wow fadeIn" href="#" data-wow-delay="0.3s"><i class="fa fa-download"></i> Download (.pdf)</a>
-                                <a class="btn blue-gradient white-text btn-rounded font-weight-bold wow fadeIn" href="#contact" data-wow-delay="0.3s">Contact Us
+                                <a class="btn stupid-gradient-2 black-text btn-rounded font-weight-bold wow fadeIn" href="#contact" data-wow-delay="0.3s">Contact Us
                                 </a>
                             </div>
                         </div>
