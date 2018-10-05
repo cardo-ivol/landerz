@@ -844,8 +844,7 @@
 
                 <!-- Section sescription -->
                 <p class="text-center w-responsive mx-auto my-5 grey-text wow fadeIn" data-wow-delay="0.2s">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum quas, eos officia maiores ipsam ipsum dolores reiciendis
-                    ad voluptas, animi obcaecati adipisci sapiente mollitia.</p>
+                    The DYZN, LLC platform includes innovative technology throughout its entire catalog of Applications.</p>
                 <!-- Grid row -->
                 <div class="row features-small wow fadeIn" data-wow-delay="0.4s">
 
@@ -854,12 +853,11 @@
                         <!-- Grid row -->
                         <div class="row mb-3">
                             <div class="col-2">
-                                <i class="fa fa-edit primary fa-2x"></i>
+                                <i class="fa fa-cogs primary fa-2x"></i>
                             </div>
                             <div class="col-10 mb-2">
-                                <h5 class="font-weight-bold title">Modern design</h5>
-                                <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam
-                                    minima.
+                                <h5 class="font-weight-bold title">Identification Software</h5>
+                                <p class="grey-text">User identification is accomplished through in-app timestamped photos and videos, an innovation that is exclusive to DYNZ, LLC.
                                 </p>
                             </div>
                         </div>
@@ -868,12 +866,11 @@
                         <!-- Grid row -->
                         <div class="row mb-3">
                             <div class="col-2">
-                                <i class="fa fa-cogs primary fa-2x"></i>
+                                <i class="fa fa-heart primary fa-2x"></i>
                             </div>
                             <div class="col-10 mb-2">
-                                <h5 class="font-weight-bold title">Easy customize</h5>
-                                <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam
-                                    minima assumenda.</p>
+                                <h5 class="font-weight-bold title">Matching Technology</h5>
+                                <p class="grey-text">Match with others by specific interests and through software algorithm where matches are delivered in real-time to users by location and desire. </p>
                             </div>
                         </div>
                         <!-- Grid row -->
@@ -881,11 +878,11 @@
                         <!-- Grid row -->
                         <div class="row">
                             <div class="col-2">
-                                <i class="fa fa-tablet primary fa-2x"></i>
+                                <i class="fa fa-lock primary fa-2x"></i>
                             </div>
                             <div class="col-10 mb-2">
-                                <h5 class="font-weight-bold title">Responsive layouts</h5>
-                                <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam.</p>
+                                <h5 class="font-weight-bold title">Secure Access</h5>
+                                <p class="grey-text">Easy and secure one-time login with text code--no need to share personal email or social media.</p>
                             </div>
                         </div>
                         <!-- Grid row -->
@@ -903,11 +900,11 @@
                         <!-- Grid row -->
                         <div class="row mb-3">
                             <div class="col-2">
-                                <i class="fa fa-line-chart primary fa-2x"></i>
+                                <i class="fa fa-video-camera primary fa-2x"></i>
                             </div>
                             <div class="col-10 mb-2">
-                                <h5 class="font-weight-bold title">Optymized for SEO</h5>
-                                <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam.</p>
+                                <h5 class="font-weight-bold title">Video Chat</h5>
+                                <p class="grey-text">Through our in-app video chat system users can be assured accurate identification without sharing personal information.</p>
                             </div>
                         </div>
                         <!-- Grid row -->
@@ -915,12 +912,11 @@
                         <!-- Grid row -->
                         <div class="row mb-3">
                             <div class="col-2">
-                                <i class="fa fa-group primary fa-2x"></i>
+                                <i class="fa fa-user-secret primary fa-2x"></i>
                             </div>
                             <div class="col-10 mb-2">
-                                <h5 class="font-weight-bold title">Technical support</h5>
-                                <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam
-                                    minima assumenda.</p>
+                                <h5 class="font-weight-bold title">Safety & Privacy</h5>
+                                <p class="grey-text">Users can control privacy with hide, mute and block options as all video, camera and sharing is done through in-app software. </p>
                             </div>
                         </div>
                         <!-- Grid row -->
@@ -928,12 +924,11 @@
                         <!-- Grid row -->
                         <div class="row">
                             <div class="col-2">
-                                <i class="fa fa-diamond primary fa-2x"></i>
+                                <i class="fa fa-users primary fa-2x"></i>
                             </div>
                             <div class="col-10 mb-2">
-                                <h5 class="font-weight-bold title">High quality</h5>
-                                <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam
-                                    minima.
+                                <h5 class="font-weight-bold title">User Experience</h5>
+                                <p class="grey-text">The entire platform of apps have been designed for greater usability,from the download and login experience to the innovative options to connect with matches.
                                 </p>
                             </div>
                         </div>
