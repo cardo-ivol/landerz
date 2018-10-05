@@ -126,9 +126,9 @@
         }
 
         .stupid-gradients {
-          background: -webkit-linear-gradient(50deg,#fff,#303f9f)!important;
-          background: -o-linear-gradient(50deg,#fff,#303f9f)!important;
-          background: linear-gradient(40deg,#fff,#303f9f)!important;
+          background: -webkit-linear-gradient(50deg,#fff,#B7B9B6)!important;
+          background: -o-linear-gradient(50deg,#fff,#B7B9B6)!important;
+          background: linear-gradient(40deg,#fff,#B7B9B6)!important;
         }
     </style>
 </head>
