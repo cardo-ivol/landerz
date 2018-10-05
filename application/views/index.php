@@ -337,13 +337,13 @@
 
                       </div>
                       <div class="row wow fadeIn py-5" data-wow-delay="0.4s">
-                        <div class="col-6 mx-auto">
+                        <div class="col-md-6 col-xs-12 mx-auto">
                           <div class="card card-opac">
                             <div class="card-body">
                               <div class="text-center">
                                 <h4>Negative experiences with dating apps according to users in the united states as of January 2018.</h4>
                               </div>
-                              <canvas id="problemChart" style="max-width:500px;"></canvas>
+                              <canvas id="problemChart"></canvas>
                             </div>
                           </div>
                         </div>
@@ -1163,6 +1163,7 @@
         data: {
             labels: ["Catfished", "Safety Concerns", "Inappropriate Images"],
             datasets: [{
+                label: 'Dataset',
                 data: [34, 29, 26],
                 backgroundColor: [
                     'rgba(255, 99, 132, 0.2)',
