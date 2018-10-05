@@ -1190,6 +1190,9 @@
                     labelString: 'Percentage (%)'
                   }
               }],
+            legend: {
+              display: false
+            }
           }
         }
     });
