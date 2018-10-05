@@ -1098,7 +1098,7 @@
             label: "Tinder",
             data: [0, , 43, 47, 52, 65, 85],
             borderColor: [
-              '#CE4A35',
+              'rgba(0, 0, 0, 0)',
             ],
             borderWidth: 2
           },
@@ -1106,7 +1106,7 @@
             label: "LOOVOO",
             data: [0, 23, 35, 65, 52, 23, 23],
             borderColor: [
-              '#F47FBE',
+              'rgba(0, 0, 0, 0)',
             ],
             borderWidth: 2
           }
