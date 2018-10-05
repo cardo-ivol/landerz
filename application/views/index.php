@@ -1163,7 +1163,6 @@
         data: {
             labels: ["Catfished", "Safety Concerns", "Inappropriate Images"],
             datasets: [{
-                label: "Dataset",
                 data: [34, 29, 26],
                 backgroundColor: [
                     'rgba(255, 99, 132, 0.2)',
@@ -1179,13 +1178,19 @@
             }]
         },
         options: {
-            scales: {
-                yAxes: [{
-                    ticks: {
-                        beginAtZero:true
-                    }
-                }]
-            }
+          responsive: true,
+          scales: {
+              yAxes: [{
+                  ticks: {
+                      beginAtZero:true,
+                  },
+                  display: true,
+                  scaleLabel: {
+                    display: true,
+                    labelString: 'Percentage (%)'
+                  }
+              }],
+          }
         }
     });
     </script>
