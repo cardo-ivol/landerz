@@ -1134,24 +1134,25 @@
         title: {
           display: true,
           text: 'Global Cumulative Downloads',
-          scales: {
-            xAxes: [{
+        },
+        scales: {
+          xAxes: [{
+            display: true,
+            scaleLabel: {
               display: true,
-              scaleLabel: {
-                display: true,
-                labelString: 'Months Since Launch'
-              }
-            }],
-            yAxes: [{
+              labelString: 'Months Since Launch'
+            }
+          }],
+          yAxes: [{
+            display: true,
+            scaleLabel: {
               display: true,
-              scaleLabel: {
-                display: true,
-                labelString: 'Downloads (\'000s\')'
-              }
-            }]
-          }
+              labelString: 'Downloads (\'000s\')'
+            }
+          }]
         }
       }
+
     });
     </script>
 
