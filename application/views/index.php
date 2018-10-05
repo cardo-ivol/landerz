@@ -707,7 +707,7 @@
                               <!-- Content -->
                               <h4 class="font-weight-bold">About me</h4>
                               <hr>
-                              <ul>
+                              <ul class="text-left" style="font-size: 12px !important;">
                                 <li>Traded stock options and cryptocurrency trading</li>
                                 <li>Former eBay Powerseller</li>
                                 <li>Collaborated on a home design book, garnering over 95K downloads.</li>
@@ -725,7 +725,7 @@
                                 <li class="list-inline-item"><a class="p-2 fa-lg li-ic"><i class="fa fa-linkedin"></i></a></li>
                               </ul> -->
                               <!-- Triggering button -->
-                              <a class="rotate-btn" data-card="card-1"><i class="fa fa-undo"></i> Click here to rotate back</a>
+                              <a class="rotate-btn" data-card="card-2"><i class="fa fa-undo"></i> Click here to rotate back</a>
 
                             </div>
                           </div>
@@ -760,7 +760,7 @@
                               <h4 class="font-weight-bold mb-3">Nikita Logachev</h4>
                               <p class="font-weight-bold blue-text">Lead Developer</p>
                               <!-- Triggering button -->
-                              <a class="rotate-btn" data-card="card-1"><i class="fa fa-repeat"></i> Click here to rotate</a>
+                              <a class="rotate-btn" data-card="card-3"><i class="fa fa-repeat"></i> Click here to rotate</a>
                             </div>
                           </div>
                           <!-- Front Side -->
@@ -772,7 +772,7 @@
                               <!-- Content -->
                               <h4 class="font-weight-bold">About me</h4>
                               <hr>
-                              <ul>
+                              <ul class="text-left">
                                 <li>Sr. mobile and full stack developer with over ten years of experience across iOS apps, web apps, and websites.</li>
                                 <li>Created rich mobile and web experiences across many diverse fields including Formula 1, foreign exchange, business networking, cooking, agriculture, and gaming.</li>
                               </ul>
