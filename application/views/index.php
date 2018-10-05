@@ -124,6 +124,12 @@
         .body-rem {
           font-size: 1.2rem !important;
         }
+
+        .stupid-gradients {
+          background: -webkit-linear-gradient(50deg,#fff,#303f9f)!important;
+          background: -o-linear-gradient(50deg,#fff,#303f9f)!important;
+          background: linear-gradient(40deg,#fff,#303f9f)!important;
+        }
     </style>
 </head>
 
@@ -211,7 +217,7 @@
                                 <!-- <h6 class="wow fadeIn" data-wow-delay="0.3s">Innovative connections to meaningful encounters -->
                                 </h6>
                                 <br>
-                                <a class="btn btn-white btn-rounded blue-text font-weight-bold ml-lg-0 wow fadeIn" href="#" data-wow-delay="0.3s"><i class="fa fa-download"></i> Download (.pdf)</a>
+                                <a class="btn stupid-gradient btn-rounded black-text font-weight-bold ml-lg-0 wow fadeIn" href="#" data-wow-delay="0.3s"><i class="fa fa-download"></i> Download (.pdf)</a>
                                 <a class="btn blue-gradient white-text btn-rounded font-weight-bold wow fadeIn" href="#contact" data-wow-delay="0.3s">Contact Us
                                 </a>
                             </div>
