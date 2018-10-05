@@ -943,6 +943,8 @@
 
         </div>
 
+        <hr>
+
         <div class="container">
             <!-- Section: Contact v.2 -->
             <section id="contact" class="section mb-5">
@@ -1093,13 +1095,18 @@
       data: {
         labels: ["1", "5", "9", "13", "17", "21", "25", "29", "33", "37", "41", "45", "49", "53", "57", "61"],
         datasets: [{
-            label: "Dataset",
-            data: [0, 41, 43, 47, 52, 65, 85],
-            backgroundColor: [
-              'rgba(158, 158, 158, .2)',
-            ],
+            label: "Tinder",
+            data: [0, , 43, 47, 52, 65, 85],
             borderColor: [
-              'rgba(0, 0, 0, .3)',
+              '#CE4A35',
+            ],
+            borderWidth: 2
+          },
+          {
+            label: "LOOVOO",
+            data: [0, 23, 35, 65, 52, 23, 23],
+            borderColor: [
+              '#F47FBE',
             ],
             borderWidth: 2
           }
