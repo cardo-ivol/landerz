@@ -951,19 +951,19 @@
                 <!-- Grid row -->
 
                 <div class="row mt-5 mx-auto">
-                  <div class="col-md-2 text-center">
+                  <div class="col-md-2 mb-3">
                     <img src="/public/img/ss1.png" class="img-fluid" style="">
                   </div>
-                  <div class="col-md-2 mx-auto">
+                  <div class="col-md-2 mb-3">
                     <img src="/public/img/ss2.png" class="img-fluid" style="">
                   </div>
-                  <div class="col-md-2 mx-auto">
+                  <div class="col-md-2 mb-3">
                     <img src="/public/img/ss3.png" class="img-fluid" style="">
                   </div>
-                  <div class="col-md-2 mx-auto">
+                  <div class="col-md-2 mb-3">
                     <img src="/public/img/ss4.png" class="img-fluid" style="">
                   </div>
-                  <div class="col-md-2 mx-auto">
+                  <div class="col-md-2 mb-3">
                     <img src="/public/img/ss5.png" class="img-fluid" style="">
                   </div>
                 </div>
