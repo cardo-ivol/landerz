@@ -122,7 +122,7 @@
         }
 
         .body-rem {
-          font-size: 1.8rem !important;
+          font-size: 1.2rem !important;
         }
     </style>
 </head>
@@ -380,7 +380,7 @@
                         </h3>
 
                         <!-- Description -->
-                        <p align="justify" class="grey-text">syftr and its sister Apps (face2face, dskreat, L4L) provide users with tools to confirm accurate identification, incorporating innovative timestamped profile facial pictures and video chats for confirmation. DYZN, LLC has created a revolutionary infrastructure (template) currently incorporated in syftr, f2f, dskreat and L4L that can be replicated and deployed seamlessly into new niche Apps to meet the needs of other demographics. (veterans, seniors, pets, etc)</p>
+                        <p class="body-rem grey-text">syftr and its sister Apps (face2face, dskreat, L4L) provide users with tools to confirm accurate identification, incorporating innovative timestamped profile facial pictures and video chats for confirmation. DYZN, LLC has created a revolutionary infrastructure (template) currently incorporated in syftr, f2f, dskreat and L4L that can be replicated and deployed seamlessly into new niche Apps to meet the needs of other demographics. (veterans, seniors, pets, etc)</p>
 
 
                     </div>
@@ -439,7 +439,7 @@
                       <div class="col-md-6 mb-4">
 
                           <!-- Stepers Wrapper -->
-                          <ul class="stepper stepper-vertical">
+                          <ul class="stepper stepper-vertical body-rem">
 
                              <!-- First Step -->
                               <li class="active">
@@ -496,7 +496,7 @@
                       </div>
                       <div class="col-md-6 mb-4">
 
-                        <ul class="mt-md-5 pt-md-4">
+                        <ul class="mt-md-5 pt-md-4 body-rem">
                           <li>DYZN, LLC has initiated it's first round private investment offering. This round of funding has a target raise of $1.6M by December 1, 2018</li>
                           <li>Funding will launch syftr's ad campaign</li>
                           <li>Complete and publish the Android syftr edition, (iOS/Apple version is complete)</li>
@@ -963,78 +963,26 @@
 
                 <div class="row wow fadeIn" data-wow-delay="0.4s">
 
-                    <!-- Grid column -->
-                    <div class="col-md-8 col-lg-9">
-                        <form>
-                            <!-- Grid row -->
-                            <div class="row">
-                                <!-- Grid column -->
-                                <div class="col-md-6">
-                                    <div class="md-form">
-                                        <div class="md-form">
-                                            <input type="text" id="form41" class="form-control">
-                                            <label for="form41" class="">Your name</label>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <!-- Grid column -->
-                                <div class="col-md-6">
-                                    <div class="md-form">
-                                        <div class="md-form">
-                                            <input type="text" id="form52" class="form-control">
-                                            <label for="form52" class="">Your email</label>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Grid row -->
-
-                            <!-- Grid row -->
-                            <div class="row">
-                                <div class="col-md-12">
-                                    <div class="md-form">
-                                        <input type="text" id="form51" class="form-control">
-                                        <label for="form51" class="">Subject</label>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Grid row -->
-
-                            <!-- Grid row -->
-                            <div class="row">
-                                <!-- Grid column -->
-                                <div class="col-md-12">
-
-                                    <div class="md-form">
-                                        <textarea type="text" id="form76" class="md-textarea form-control" rows="3"></textarea>
-                                        <label for="form76">Your message</label>
-                                    </div>
-
-                                </div>
-                            </div>
-                            <!-- Grid row -->
-                        </form>
-
-                        <div class="text-center text-md-left mb-5 mt-4">
-                            <a class="btn btn-rounded btn-white font-weight-bold">Send</a>
-                        </div>
-                    </div>
-                    <!-- Grid column -->
 
                     <!-- Grid column -->
-                    <div class="col-md-4 col-lg-3">
+                    <div class="col-md-4">
                         <ul class="text-center list-unstyled float-md-right">
                             <li>
                                 <i class="fa fa-map-marker fa-2x title"></i>
                                 <p>New York, NY 10012, USA</p>
                             </li>
-
+                        </ul>
+                    </div>
+                    <div class="col-md-4">
+                        <ul class="text-center list-unstyled float-md-right">
                             <li>
                                 <i class="fa fa-phone fa-2x title"></i>
                                 <p>+ 01 234 567 89</p>
                             </li>
-
+                        </ul>
+                    </div>
+                    <div class="col-md-4">
+                        <ul class="text-center list-unstyled float-md-right">
                             <li>
                                 <i class="fa fa-envelope fa-2x title"></i>
                                 <p>contact@gmail.com</p>
