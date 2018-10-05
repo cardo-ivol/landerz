@@ -951,7 +951,7 @@
                 <!-- Grid row -->
 
                 <div class="row mt-5">
-                  <div class="col-md-4 mx-auto">
+                  <div class="col-md-4 text-center">
                     <img src="/public/img/ss1.png" class="img-fluid" style="">
                   </div>
                   <div class="col-md-4 mx-auto">
