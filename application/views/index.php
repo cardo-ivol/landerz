@@ -950,6 +950,27 @@
                 </div>
                 <!-- Grid row -->
 
+                <div class="row mt-5">
+                  <div class="col-md-4 mx-auto">
+                    <img src="/public/img/ss1.jpg" class="img-fluid" style="">
+                  </div>
+                  <div class="col-md-4 mx-auto">
+                    <img src="/public/img/ss2.jpg" class="img-fluid" style="">
+                  </div>
+                  <div class="col-md-4 mx-auto">
+                    <img src="/public/img/ss3.jpg" class="img-fluid" style="">
+                  </div>
+                </div>
+
+                <div class="row mt-4">
+                  <div class="col-md-6 mx-auto">
+                    <img src="/public/img/ss4.jpg" class="img-fluid" style="">
+                  </div>
+                  <div class="col-md-6 mx-auto">
+                    <img src="/public/img/ss5.jpg" class="img-fluid" style="">
+                  </div>
+                </div>
+
             </section>
             <!-- Section: Features v.4 -->
 
