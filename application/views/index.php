@@ -953,23 +953,22 @@
                 </h3>
 
                 <!-- Section sescription -->
-                <p class="text-center grey-text my-5 w-responsive mx-auto wow fadeIn" data-wow-delay="0.2s">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, error amet numquam iure provident voluptate
-                    esse quasi, veritatis totam voluptas nostrum quisquam eum porro a pariatur accusamus veniam.</p>
+                <p class="text-center grey-text my-5 w-responsive mx-auto wow fadeIn body-rem" data-wow-delay="0.2s">Bring people together with transparency and fun. The time is now.</p>
 
                 <div class="row wow fadeIn" data-wow-delay="0.4s">
 
 
                     <!-- Grid column -->
                     <div class="col-md-4">
-                        <ul class="text-center list-unstyled float-md-right">
+                        <ul class="text-center list-unstyled">
                             <li>
                                 <i class="fa fa-map-marker fa-2x title"></i>
-                                <p>New York, NY 10012, USA</p>
+                                <p>DZYN, LLC, 1331 N Gardner St Unit 1, Los Angeles, CA 90046</p>
                             </li>
                         </ul>
                     </div>
                     <div class="col-md-4">
-                        <ul class="text-center list-unstyled float-md-right">
+                        <ul class="text-center list-unstyled">
                             <li>
                                 <i class="fa fa-phone fa-2x title"></i>
                                 <p>+ 01 234 567 89</p>
@@ -977,7 +976,7 @@
                         </ul>
                     </div>
                     <div class="col-md-4">
-                        <ul class="text-center list-unstyled float-md-right">
+                        <ul class="text-center list-unstyled">
                             <li>
                                 <i class="fa fa-envelope fa-2x title"></i>
                                 <p>contact@gmail.com</p>
