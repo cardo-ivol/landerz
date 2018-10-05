@@ -950,21 +950,9 @@
                 </div>
                 <!-- Grid row -->
 
-                <div class="row mt-5 mx-auto">
-                  <div class="col-md-2 mb-3">
-                    <img src="/public/img/ss1.png" class="img-fluid" style="">
-                  </div>
-                  <div class="col-md-2 mb-3">
-                    <img src="/public/img/ss2.png" class="img-fluid" style="">
-                  </div>
-                  <div class="col-md-2 mb-3">
-                    <img src="/public/img/ss3.png" class="img-fluid" style="">
-                  </div>
-                  <div class="col-md-2 mb-3">
-                    <img src="/public/img/ss4.png" class="img-fluid" style="">
-                  </div>
-                  <div class="col-md-2 mb-3">
-                    <img src="/public/img/ss5.png" class="img-fluid" style="">
+                <div class="row mt-5">
+                  <div class="col-md-12 mb-3">
+                    <img src="/public/img/marketing_img.png" class="img-fluid" style="">
                   </div>
                 </div>
 
