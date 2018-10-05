@@ -337,7 +337,7 @@
 
                       </div>
                       <div class="row wow fadeIn py-5" data-wow-delay="0.4s">
-                        <div class="col-md-6 col-xs-12 mx-auto">
+                        <div class="col-md-8 col-xs-12 mx-auto">
                           <div class="card card-opac">
                             <div class="card-body">
                               <div class="text-center">
@@ -1161,19 +1161,21 @@
     var myChart = new Chart(ctx, {
         type: 'bar',
         data: {
-            labels: ["Catfished", "Safety Concerns", "Inappropriate Images"],
+            labels: ["Catfished", "Safety Concerns", "Inappropriate Images", "Block or Report Someone"],
             datasets: [{
                 label: 'Dataset',
-                data: [34, 29, 26],
+                data: [34, 29, 26, 31],
                 backgroundColor: [
                     'rgba(255, 99, 132, 0.2)',
                     'rgba(54, 162, 235, 0.2)',
-                    'rgba(255, 206, 86, 0.2)'
+                    'rgba(255, 206, 86, 0.2)',
+                    'rgba(75, 192, 192, 0.2)'
                 ],
                 borderColor: [
                     'rgba(255,99,132,1)',
                     'rgba(54, 162, 235, 1)',
-                    'rgba(255, 206, 86, 1)'
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)'
                 ],
                 borderWidth: 1
             }]
