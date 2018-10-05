@@ -307,7 +307,7 @@
                         </h3>
 
                         <!-- Description -->
-                        <p align="justify" class="grey-text">The dating industry is a $10B plus international market opportunity with consistent three digit revenue growth annually experienced by Tinder, the world's most popular dating software.</p>
+                        <p class="grey-text body-rem text-center">The dating industry is a $10B plus international market opportunity with consistent three digit revenue growth annually experienced by Tinder, the world's most popular dating software.</p>
 
 
                     </div>
@@ -343,7 +343,7 @@
                         <div class="col-md-12">
                           <h4 class="mb-3 title py-4 t-shadow"><strong>Dating Apps suffer from misleading profile pictures and personal information</strong></h4>
                           <br>
-                          <p><a href="#" data-toggle="tooltip" class="a-dotted" title="Catfishing is a type of deceptive activity where a person creates a sock puppet social networking presence, or fake identity on a social network account, for attention seeking, bullying or as a romance scam. A 'catfish' is someone pretending to be someone they are not on the internet.">"Catfishing"</a> and similar tactics negatively affect user experience and trust in the product. The market has a need for more niche dating and relationship Apps, customized to specific targeted demographics currently being underserved or overlooked.
+                          <p class="body-rem"><a href="#" data-toggle="tooltip" class="a-dotted" title="Catfishing is a type of deceptive activity where a person creates a sock puppet social networking presence, or fake identity on a social network account, for attention seeking, bullying or as a romance scam. A 'catfish' is someone pretending to be someone they are not on the internet.">"Catfishing"</a> and similar tactics negatively affect user experience and trust in the product. The market has a need for more niche dating and relationship Apps, customized to specific targeted demographics currently being underserved or overlooked.
                           </p>
                         </div>
 
@@ -547,7 +547,7 @@
                         <h4 class="dark-grey-text title font-weight-bold text-center wow fadeIn" data-wow-delay="0.4s">
                           Minimum Investment: $40,000
                         </h4>
-                        <p class="mb-5 grey-text text-center">
+                        <p class="mb-5 grey-text text-center body-rem">
                           (1 unit equal to $40,000/8 units equal to 1% total company ownership)
                         </p>
 
@@ -581,10 +581,10 @@
                     </div>
                     <div class="row pt-2 mt-5">
                       <div class="col-md-12 wow fadeIn text-center" data-wow-delay="0.8s">
-                        <h6 class="wow fadeIn" data-wow-delay="0.3s">Revenues from Round 1 Projected to commence: 4th QTR 2018
-                        </h6>
-                        <h6 class="wow fadeIn" data-wow-delay="0.3s">Exit Strategy Summation: IPO or Company Buyout by 2023
-                        </h6>
+                        <p class="wow fadeIn body-rem dark-grey-text" data-wow-delay="0.3s">Revenues from Round 1 Projected to commence: 4th QTR 2018
+                        </p>
+                        <p class="wow fadeIn body-rem dark-grey-text" data-wow-delay="0.3s">Exit Strategy Summation: IPO or Company Buyout by 2023
+                        </p>
                       </div>
                     </div>
 
@@ -603,7 +603,7 @@
                         <img src="/public/img/syftr.png" class="img-fluid iconz z-depth-1">
                       </div>
                       <div class="col-md-12 wow fadeIn text-center mt-5 pt-3" data-wow-delay="0.8s">
-                        <p class="text-center dark-grey-text">Investor's equity in DYZN includes revenue from all of its catalog of current and future Apps</p>
+                        <p class="text-center dark-grey-text body-rem">Investor's equity in DYZN includes revenue from all of its catalog of current and future Apps</p>
                       </div>
                     </div>
                     <!-- Grid column -->
