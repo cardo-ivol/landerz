@@ -116,6 +116,14 @@
         .top-head {
           font-size: 4rem !important;
         }
+
+        .two-rem {
+          font-size: 2rem !important;
+        }
+
+        .body-rem {
+          font-size: 1.8rem !important;
+        }
     </style>
 </head>
 
@@ -243,7 +251,7 @@
                     <!-- Grid column -->
                     <div class="col-lg-3 col-md-12 mb-3 wow slideInLeft" data-wow-delay="0.4s">
                         <!-- Image -->
-                        <img src="/public/img/iphonex_syftr.png" class="img-fluid" alt="My photo">
+                        <img src="/public/img/iphonex_all.png" class="img-fluid" alt="My photo" style="max-width:200px !important;">
                     </div>
                     <!-- Grid column -->
 
@@ -256,7 +264,7 @@
                         </h3>
 
                         <!-- Description -->
-                        <p align="justify" class="grey-text">DYZN, LLC creates innovative software, connecting individuals in geographic proximity for casual and meaningful encounters in real time, incorporating the highest transparency standard in the industry.</p>
+                        <p class="grey-text two-rem">DYZN, LLC creates innovative software, connecting individuals in geographic proximity for casual and meaningful encounters in real time, incorporating the highest transparency standard in the industry.</p>
 
 
                     </div>
