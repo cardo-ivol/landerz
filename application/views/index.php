@@ -613,8 +613,8 @@
                     <strong>Who We Are</strong>
                 </h3>
                 <!-- Section description -->
-                <p class="text-center w-responsive mx-auto my-5 grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, error amet numquam iure provident voluptate
-                    esse quasi, veritatis totam voluptas nostrum quisquam eum porro a pariatur accusamus veniam.</p>
+                <!-- <p class="text-center w-responsive mx-auto my-5 grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, error amet numquam iure provident voluptate
+                    esse quasi, veritatis totam voluptas nostrum quisquam eum porro a pariatur accusamus veniam.</p> -->
 
                 <!-- Grid row -->
                 <div class="row text-center wow slideInUp" data-wow-delay="0.4s">
