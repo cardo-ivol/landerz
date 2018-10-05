@@ -224,7 +224,7 @@
                                 </h6>
                                 <br>
                                 <a class="btn stupid-gradient btn-rounded black-text font-weight-bold ml-lg-0 wow fadeIn" href="#" data-wow-delay="0.3s"><i class="fa fa-download"></i> Download (.pdf)</a>
-                                <a class="btn stupid-gradient-2 black-text btn-rounded font-weight-bold wow fadeIn" href="#contact" data-wow-delay="0.3s">Contact Us
+                                <a class="btn stupid-gradient-2 white-text btn-rounded font-weight-bold wow fadeIn" href="#contact" data-wow-delay="0.3s">Contact Us
                                 </a>
                             </div>
                         </div>
