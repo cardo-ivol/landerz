@@ -950,7 +950,7 @@
                 </div>
                 <!-- Grid row -->
 
-                <div class="row mt-5">
+                <div class="row mt-5 d-none d-md-block">
                   <div class="col-md-12 mb-3">
                     <img src="/public/img/marketing_img.png" class="img-fluid" style="">
                   </div>
