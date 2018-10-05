@@ -894,7 +894,7 @@
 
                     <!-- Grid column -->
                     <div class="col-lg-4 col-md-12 mb-1 text-center text-md-left">
-                        <img src="https://mdbootstrap.com/img/Mockups/Transparent/Small/admin-new.png" alt="" class="z-depth-0 img-fluid">
+                        <img src="/public/img/old_iphone.png" alt="" class="z-depth-0 img-fluid">
                     </div>
                     <!-- Grid column -->
 
