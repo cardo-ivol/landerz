@@ -641,7 +641,7 @@
                               <!-- Content -->
                               <h4 class="font-weight-bold">About me</h4>
                               <hr>
-                              <ul>
+                              <ul class="text-left" style="font-size:12px !important;">
                                 <li>Studied fashion design in Sydney</li>
                                 <li>Started clothing lines in Beverly Hills, California
                                 <li>Successful costume designer in film and television industries</li>
@@ -801,17 +801,17 @@
                 </div>
                 <!-- Grid row -->
 
-                <div class="row mt-5 wow slideInUp" data-wow-delay="0.4s">
+                <div class="row mt-5 text-center wow slideInUp" data-wow-delay="0.4s">
                   <div class="col-md-12 mb-3">
-                    <h5>Jennifer Post - Legal Counsel</h5>
+                    <h5><strong>Jennifer Post - Legal Counsel</strong></h5>
                     <p>Legal Counsel, Thompson Coburn LLP, Los Angeles. 30+ years experience; pre-IPO, IPO, business, corporate litigation, IP.</p>
                   </div>
                   <div class="col-md-12 mb-3">
-                    <h5>Zahid Aziz - Accountant</h5>
+                    <h5><strong>Zahid Aziz - Accountant</strong></h5>
                     <p>Miller Ward Aziz, Accountancy Corporation</p>
                   </div>
                   <div class="col-md-12 mb-3">
-                    <h5>Maureen Bernstein - Insurance Broker</h5>
+                    <h5><strong>Maureen Bernstein - Insurance Broker</strong></h5>
                     <p>Newfront Insurance</p>
                   </div>
                 </div>
@@ -819,6 +819,8 @@
 
             </section>
             <!-- Section: Team v.1 -->
+
+            <hr>
 
             <!-- Section: Features v.4 -->
             <section id="features" class="section feature-box mb-5 pb-4">
