@@ -621,13 +621,13 @@
                             </div>
 
                             <!-- Avatar -->
-                            <div class="avatar mx-auto white"><img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(20).jpg" class="rounded-circle" alt="Sample avatar image.">
+                            <div class="avatar mx-auto white"><img src="/public/img/peter_dzyn.jpg" class="rounded-circle" alt="Sample avatar image.">
                             </div>
 
                             <!-- Content -->
                             <div class="card-body card-adj">
-                              <h4 class="font-weight-bold mb-3">Marie Johnson</h4>
-                              <p class="font-weight-bold blue-text">Web developer</p>
+                              <h4 class="font-weight-bold mb-3">Peter Mitchell</h4>
+                              <p class="font-weight-bold blue-text">Sr. Partner</p>
                               <!-- Triggering button -->
                               <a class="rotate-btn" data-card="card-1"><i class="fa fa-repeat"></i> Click here to rotate</a>
                             </div>
@@ -641,16 +641,25 @@
                               <!-- Content -->
                               <h4 class="font-weight-bold">About me</h4>
                               <hr>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime quae, dolores dicta. Blanditiis rem amet repellat, dolores nihil quae in mollitia asperiores ut rerum repellendus, voluptatum eum, officia laudantium quaerat?
-                              </p>
+                              <ul>
+                                <li>Studied fashion design in Sydney</li>
+                                <li>Started clothing lines in Beverly Hills, California
+                                <li>Successful costume designer in film and television industries</li>
+                                <li>Partner in Atlas Bar and Grill for twelve years</li>
+                                <li>Created line of pet products, sold in, among others, Harrods London, Restoration Hardware, Club Monaco, and over 1,200 other stores within the U.S.</li>
+                                <li>Developed line of furniture which sold in Restoration Hardware and Neiman Marcus catalogues</li>
+                                <li>Owner, short term vacation rental property company in Los Angeles</li>
+                                <li>Co-Founder and Sr. Partner, DZYN, LLC</li>
+                              </ul>
+
                               <hr>
                               <!-- Social Icons -->
-                              <ul class="list-inline py-2">
+                              <!-- <ul class="list-inline py-2">
                                 <li class="list-inline-item"><a class="p-2 fa-lg fb-ic"><i class="fa fa-facebook"></i></a></li>
                                 <li class="list-inline-item"><a class="p-2 fa-lg tw-ic"><i class="fa fa-twitter"></i></a></li>
                                 <li class="list-inline-item"><a class="p-2 fa-lg gplus-ic"><i class="fa fa-google-plus"></i></a></li>
                                 <li class="list-inline-item"><a class="p-2 fa-lg li-ic"><i class="fa fa-linkedin"></i></a></li>
-                              </ul>
+                              </ul> -->
                               <!-- Triggering button -->
                               <a class="rotate-btn" data-card="card-1"><i class="fa fa-undo"></i> Click here to rotate back</a>
 
@@ -678,13 +687,13 @@
                             </div>
 
                             <!-- Avatar -->
-                            <div class="avatar mx-auto white"><img src="https://mdbootstrap.com/img/Photos/Avatars/img%20%2810%29.jpg" class="rounded-circle" alt="Sample avatar image.">
+                            <div class="avatar mx-auto white"><img src="/public/img/john_dzyn.jpg" class="rounded-circle" alt="Sample avatar image.">
                             </div>
 
                             <!-- Content -->
                             <div class="card-body card-adj">
-                              <h4 class="font-weight-bold mb-3">Marie Johnson</h4>
-                              <p class="font-weight-bold blue-text">Web developer</p>
+                              <h4 class="font-weight-bold mb-3">John Haigh</h4>
+                              <p class="font-weight-bold blue-text">Sr. Partner</p>
                               <!-- Triggering button -->
                               <a class="rotate-btn" data-card="card-1"><i class="fa fa-repeat"></i> Click here to rotate</a>
                             </div>
@@ -698,16 +707,23 @@
                               <!-- Content -->
                               <h4 class="font-weight-bold">About me</h4>
                               <hr>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime quae, dolores dicta. Blanditiis rem amet repellat, dolores nihil quae in mollitia asperiores ut rerum repellendus, voluptatum eum, officia laudantium quaerat?
-                              </p>
+                              <ul>
+                                <li>Traded stock options and cryptocurrency trading</li>
+                                <li>Former eBay Powerseller</li>
+                                <li>Collaborated on a home design book, garnering over 95K downloads.</li>
+                                <li>Creator of "Mark On Call" iOS apps based on the book for Apple nascent App Store marketplace in 2008. Mark on Call and Mark on Call HD were iOS home design applications sold from 2008-2017, profiled in The New York Times, USA Today, and Wall Street Journal ad campaigns. Recommended in The Guardian, MacWorld, Men's Health and Good Housekeeping.</li>
+                                <li>Responsibilities at Mark On Call included project management, UI/UX development, QA testing, Web Design, marketing, third platform development and PR/customer relations.</li>
+                                <li>Co-Founder and Sr. Partner, DZYN, LLC.</li>
+                              </ul>
+
                               <hr>
                               <!-- Social Icons -->
-                              <ul class="list-inline py-2">
+                              <!-- <ul class="list-inline py-2">
                                 <li class="list-inline-item"><a class="p-2 fa-lg fb-ic"><i class="fa fa-facebook"></i></a></li>
                                 <li class="list-inline-item"><a class="p-2 fa-lg tw-ic"><i class="fa fa-twitter"></i></a></li>
                                 <li class="list-inline-item"><a class="p-2 fa-lg gplus-ic"><i class="fa fa-google-plus"></i></a></li>
                                 <li class="list-inline-item"><a class="p-2 fa-lg li-ic"><i class="fa fa-linkedin"></i></a></li>
-                              </ul>
+                              </ul> -->
                               <!-- Triggering button -->
                               <a class="rotate-btn" data-card="card-1"><i class="fa fa-undo"></i> Click here to rotate back</a>
 
@@ -736,13 +752,13 @@
                             </div>
 
                             <!-- Avatar -->
-                            <div class="avatar mx-auto white"><img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(20).jpg" class="rounded-circle" alt="Sample avatar image.">
+                            <div class="avatar mx-auto white"><img src="/public/img/nikita_dzyn.jpg" class="rounded-circle" alt="Sample avatar image.">
                             </div>
 
                             <!-- Content -->
                             <div class="card-body card-adj">
-                              <h4 class="font-weight-bold mb-3">Marie Johnson</h4>
-                              <p class="font-weight-bold blue-text">Web developer</p>
+                              <h4 class="font-weight-bold mb-3">Nikita Logachev</h4>
+                              <p class="font-weight-bold blue-text">Lead Developer</p>
                               <!-- Triggering button -->
                               <a class="rotate-btn" data-card="card-1"><i class="fa fa-repeat"></i> Click here to rotate</a>
                             </div>
@@ -756,16 +772,19 @@
                               <!-- Content -->
                               <h4 class="font-weight-bold">About me</h4>
                               <hr>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime quae, dolores dicta. Blanditiis rem amet repellat, dolores nihil quae in mollitia asperiores ut rerum repellendus, voluptatum eum, officia laudantium quaerat?
-                              </p>
+                              <ul>
+                                <li>Sr. mobile and full stack developer with over ten years of experience across iOS apps, web apps, and websites.</li>
+                                <li>Created rich mobile and web experiences across many diverse fields including Formula 1, foreign exchange, business networking, cooking, agriculture, and gaming.</li>
+                              </ul>
+
                               <hr>
                               <!-- Social Icons -->
-                              <ul class="list-inline py-2">
+                              <!-- <ul class="list-inline py-2">
                                 <li class="list-inline-item"><a class="p-2 fa-lg fb-ic"><i class="fa fa-facebook"></i></a></li>
                                 <li class="list-inline-item"><a class="p-2 fa-lg tw-ic"><i class="fa fa-twitter"></i></a></li>
                                 <li class="list-inline-item"><a class="p-2 fa-lg gplus-ic"><i class="fa fa-google-plus"></i></a></li>
                                 <li class="list-inline-item"><a class="p-2 fa-lg li-ic"><i class="fa fa-linkedin"></i></a></li>
-                              </ul>
+                              </ul> -->
                               <!-- Triggering button -->
                               <a class="rotate-btn" data-card="card-1"><i class="fa fa-undo"></i> Click here to rotate back</a>
 
@@ -781,6 +800,22 @@
 
                 </div>
                 <!-- Grid row -->
+
+                <div class="row mt-5 wow slideInUp" data-wow-delay="0.4s">
+                  <div class="col-md-12 mb-3">
+                    <h5>Jennifer Post - Legal Counsel</h5>
+                    <p>Legal Counsel, Thompson Coburn LLP, Los Angeles. 30+ years experience; pre-IPO, IPO, business, corporate litigation, IP.</p>
+                  </div>
+                  <div class="col-md-12 mb-3">
+                    <h5>Zahid Aziz - Accountant</h5>
+                    <p>Miller Ward Aziz, Accountancy Corporation</p>
+                  </div>
+                  <div class="col-md-12 mb-3">
+                    <h5>Maureen Bernstein - Insurance Broker</h5>
+                    <p>Newfront Insurance</p>
+                  </div>
+                </div>
+
 
             </section>
             <!-- Section: Team v.1 -->
