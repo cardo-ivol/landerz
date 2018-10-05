@@ -677,7 +677,7 @@
                     <div class="col-md-4 mb-4">
                       <!-- Rotating card -->
                         <div class="card-wrapper">
-                        <div id="card-1" class="card-rotating effect__click text-center h-100 w-100">
+                        <div id="card-2" class="card-rotating effect__click text-center h-100 w-100">
 
                           <!-- Front Side -->
                           <div class="face front testimonial-card">
@@ -695,7 +695,7 @@
                               <h4 class="font-weight-bold mb-3">John Haigh</h4>
                               <p class="font-weight-bold blue-text">Sr. Partner</p>
                               <!-- Triggering button -->
-                              <a class="rotate-btn" data-card="card-1"><i class="fa fa-repeat"></i> Click here to rotate</a>
+                              <a class="rotate-btn" data-card="card-2"><i class="fa fa-repeat"></i> Click here to rotate</a>
                             </div>
                           </div>
                           <!-- Front Side -->
@@ -742,7 +742,7 @@
                     <div class="col-md-4 mb-4">
                       <!-- Rotating card -->
                         <div class="card-wrapper">
-                        <div id="card-1" class="card-rotating effect__click text-center h-100 w-100">
+                        <div id="card-3" class="card-rotating effect__click text-center h-100 w-100">
 
                           <!-- Front Side -->
                           <div class="face front testimonial-card">
@@ -786,7 +786,7 @@
                                 <li class="list-inline-item"><a class="p-2 fa-lg li-ic"><i class="fa fa-linkedin"></i></a></li>
                               </ul> -->
                               <!-- Triggering button -->
-                              <a class="rotate-btn" data-card="card-1"><i class="fa fa-undo"></i> Click here to rotate back</a>
+                              <a class="rotate-btn" data-card="card-3"><i class="fa fa-undo"></i> Click here to rotate back</a>
 
                             </div>
                           </div>
