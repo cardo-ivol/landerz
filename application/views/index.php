@@ -590,19 +590,19 @@
 
 
                     <div class="row pt-2 mt-5">
-                      <div class="col-xs-3 wow fadeIn text-center mb-3" data-wow-delay="0.8s">
+                      <div class="col-xs-3 col-md-3wow fadeIn text-center mb-3" data-wow-delay="0.8s">
                         <img src="/public/img/f2f.png" class="img-fluid iconz z-depth-1">
                       </div>
-                      <div class="col-xs-3 wow fadeIn text-center mb-3" data-wow-delay="0.8s">
+                      <div class="col-xs-3 col-md-3 wow fadeIn text-center mb-3" data-wow-delay="0.8s">
                         <img src="/public/img/dskreat.png" class="img-fluid iconz z-depth-1">
                       </div>
-                      <div class="col-xs-3 wow fadeIn text-center mb-3" data-wow-delay="0.8s">
+                      <div class="col-xs-3 col-md-3 wow fadeIn text-center mb-3" data-wow-delay="0.8s">
                         <img src="/public/img/l4l.png" class="img-fluid iconz z-depth-1">
                       </div>
-                      <div class="col-xs-3 wow fadeIn text-center mb-3" data-wow-delay="0.8s">
+                      <div class="col-xs-3 col-md-3 wow fadeIn text-center mb-3" data-wow-delay="0.8s">
                         <img src="/public/img/syftr.png" class="img-fluid iconz z-depth-1">
                       </div>
-                      <div class="col-xs-12 wow fadeIn text-center mt-5 pt-3" data-wow-delay="0.8s">
+                      <div class="col-xs-12 col-md-3 wow fadeIn text-center mt-5 pt-3" data-wow-delay="0.8s">
                         <p class="text-center dark-grey-text body-rem">Investor's equity in DYZN includes revenue from all of its catalog of current and future Apps</p>
                       </div>
                     </div>
