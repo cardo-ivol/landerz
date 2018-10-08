@@ -782,7 +782,7 @@
                             <!-- Content -->
                             <div class="card-body card-adj">
                               <h4 class="font-weight-bold mb-3">Nikita Logachev</h4>
-                              <p class="font-weight-bold blue-text">Lead Developer</p>
+                              <p class="font-weight-bold blue-text">CTO</p>
                               <!-- Triggering button -->
                               <a class="rotate-btn" data-card="card-3"><i class="fa fa-repeat"></i> Click here to rotate</a>
                             </div>
@@ -995,7 +995,7 @@
                         <ul class="text-center list-unstyled">
                             <li>
                                 <i class="fa fa-phone fa-2x title"></i>
-                                <p>+ 01 234 567 89</p>
+                                <p>(424) 258-0169</p>
                             </li>
                         </ul>
                     </div>
@@ -1003,7 +1003,7 @@
                         <ul class="text-center list-unstyled">
                             <li>
                                 <i class="fa fa-envelope fa-2x title"></i>
-                                <p>contact@gmail.com</p>
+                                <p>investors@dzynapps.com</p>
                             </li>
                         </ul>
                     </div>
