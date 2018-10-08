@@ -590,7 +590,7 @@
 
 
                     <div class="row pt-2 mt-5">
-                      <div class="col-xs-3 col-md-3wow fadeIn text-center mb-3" data-wow-delay="0.8s">
+                      <div class="col-xs-3 col-md-3 wow fadeIn text-center mb-3" data-wow-delay="0.8s">
                         <img src="/public/img/f2f.png" class="img-fluid iconz z-depth-1">
                       </div>
                       <div class="col-xs-3 col-md-3 wow fadeIn text-center mb-3" data-wow-delay="0.8s">
