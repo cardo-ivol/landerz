@@ -125,13 +125,13 @@
           font-size: 1.6rem !important;
         }
 
-        .stupid-gradient {
+        .s-gradient {
           background: -webkit-linear-gradient(50deg,#fff,#B7B9B6)!important;
           background: -o-linear-gradient(50deg,#fff,#B7B9B6)!important;
           background: linear-gradient(40deg,#fff,#B7B9B6)!important;
         }
 
-        .stupid-gradient-2 {
+        .s-gradient-2 {
           background: -webkit-linear-gradient(50deg,#999DA0,#222222)!important;
           background: -o-linear-gradient(50deg,#999DA0,#222222)!important;
           background: linear-gradient(40deg,#999DA0,#222222)!important;
@@ -223,8 +223,8 @@
                                 <!-- <h6 class="wow fadeIn" data-wow-delay="0.3s">Innovative connections to meaningful encounters -->
                                 </h6>
                                 <br>
-                                <a class="btn stupid-gradient btn-rounded black-text font-weight-bold ml-lg-0 wow fadeIn" href="#" data-wow-delay="0.3s"><i class="fa fa-download"></i> Download (.pdf)</a>
-                                <a class="btn stupid-gradient-2 white-text btn-rounded font-weight-bold wow fadeIn" href="#contact" data-wow-delay="0.3s">Contact Us
+                                <a class="btn s-gradient btn-rounded black-text font-weight-bold ml-lg-0 wow fadeIn" href="#" data-wow-delay="0.3s"><i class="fa fa-download"></i> Download (.pdf)</a>
+                                <a class="btn s-gradient-2 white-text btn-rounded font-weight-bold wow fadeIn" href="#contact" data-wow-delay="0.3s">Contact Us
                                 </a>
                             </div>
                         </div>
